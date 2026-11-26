@@ -1,0 +1,8162 @@
+[
+ {
+  "file": "models/01-seating-sofa-chair/ArmChair_01.glb",
+  "name": "ArmChair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 750,
+  "tris": 5626,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.848,
+   1.065,
+   0.766
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/BarberShopChair_01.glb",
+  "name": "BarberShopChair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 858,
+  "tris": 4280,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.757,
+   1.489,
+   1.328
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/GreenChair_01.glb",
+  "name": "GreenChair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 593,
+  "tris": 4213,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.673,
+   1.059,
+   0.664
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/Ottoman_01.glb",
+  "name": "Ottoman_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 636,
+  "tris": 4240,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.885,
+   0.624,
+   0.621
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/SchoolChair_01.glb",
+  "name": "SchoolChair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 472,
+  "tris": 5072,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.566,
+   1.006,
+   0.675
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/Sofa_01.glb",
+  "name": "Sofa_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 505,
+  "tris": 4101,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.571,
+   0.797,
+   0.658
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/WoodenChair_01.glb",
+  "name": "WoodenChair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1053,
+  "tris": 19992,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.688,
+   2.274,
+   0.658
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/bar_chair_round_01.glb",
+  "name": "bar_chair_round_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2745,
+  "tris": 14373,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.486,
+   0.751,
+   0.483
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/bench_vice_01.glb",
+  "name": "bench_vice_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2377,
+  "tris": 2864,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.2,
+   0.2,
+   0.273
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/chinese_armchair.glb",
+  "name": "chinese_armchair",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1662,
+  "tris": 2675,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.848,
+   1.587,
+   0.789
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/chinese_sofa.glb",
+  "name": "chinese_sofa",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1534,
+  "tris": 704,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.285,
+   0.86,
+   0.969
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/chinese_stool.glb",
+  "name": "chinese_stool",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1750,
+  "tris": 1090,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.506,
+   0.631,
+   0.599
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/dining_chair_02.glb",
+  "name": "dining_chair_02",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 899,
+  "tris": 22013,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.434,
+   0.973,
+   0.576
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/folding_wooden_stool.glb",
+  "name": "folding_wooden_stool",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2214,
+  "tris": 6324,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.528,
+   0.442,
+   0.547
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/gallinera_chair.glb",
+  "name": "gallinera_chair",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2302,
+  "tris": 11560,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.581,
+   1.034,
+   0.604
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/metal_stool_01.glb",
+  "name": "metal_stool_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2232,
+  "tris": 8334,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.352,
+   0.883,
+   0.355
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/metal_stool_02.glb",
+  "name": "metal_stool_02",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2480,
+  "tris": 6532,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.473,
+   0.458,
+   0.448
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/metal_stool_03.glb",
+  "name": "metal_stool_03",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2235,
+  "tris": 6576,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.461,
+   1.023,
+   0.471
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/mid_century_lounge_chair.glb",
+  "name": "mid_century_lounge_chair",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2037,
+  "tris": 6148,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.009,
+   1.169,
+   1.19
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/modern_arm_chair_01.glb",
+  "name": "modern_arm_chair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2633,
+  "tris": 8916,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.82,
+   0.869,
+   0.971
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/outdoor_table_chair_set_01.glb",
+  "name": "outdoor_table_chair_set_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1211,
+  "tris": 9828,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.472,
+   0.859,
+   0.599
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/painted_wooden_bench.glb",
+  "name": "painted_wooden_bench",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1942,
+  "tris": 630,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.165,
+   0.889,
+   0.497
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/painted_wooden_chair_01.glb",
+  "name": "painted_wooden_chair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 480,
+  "tris": 724,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.432,
+   0.956,
+   0.54
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/painted_wooden_chair_02.glb",
+  "name": "painted_wooden_chair_02",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2339,
+  "tris": 1246,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.662,
+   1.264,
+   0.639
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/painted_wooden_sofa.glb",
+  "name": "painted_wooden_sofa",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2050,
+  "tris": 5826,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.452,
+   1.281,
+   0.787
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/painted_wooden_stool.glb",
+  "name": "painted_wooden_stool",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1830,
+  "tris": 676,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.385,
+   0.579,
+   0.406
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/plastic_monobloc_chair_01.glb",
+  "name": "plastic_monobloc_chair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1906,
+  "tris": 3356,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.642,
+   0.88,
+   0.628
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/sofa_02.glb",
+  "name": "sofa_02",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 416,
+  "tris": 2728,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.807,
+   0.709,
+   0.811
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/sofa_03.glb",
+  "name": "sofa_03",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 799,
+  "tris": 8004,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   2.731,
+   1.118,
+   0.925
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/wheelchair_01.glb",
+  "name": "wheelchair_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 1706,
+  "tris": 40252,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.824,
+   1.104,
+   1.091
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/wooden_stool_01.glb",
+  "name": "wooden_stool_01",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 938,
+  "tris": 10946,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.425,
+   0.437,
+   0.442
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/01-seating-sofa-chair/wooden_stool_02.glb",
+  "name": "wooden_stool_02",
+  "category": "01-seating-sofa-chair",
+  "size_kb": 2592,
+  "tris": 11146,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.265,
+   0.181,
+   0.183
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/SchoolDesk_01.glb",
+  "name": "SchoolDesk_01",
+  "category": "02-tables",
+  "size_kb": 411,
+  "tris": 4162,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.712,
+   0.883,
+   0.546
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/WoodenTable_01.glb",
+  "name": "WoodenTable_01",
+  "category": "02-tables",
+  "size_kb": 540,
+  "tris": 952,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.8,
+   0.549,
+   0.657
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/WoodenTable_02.glb",
+  "name": "WoodenTable_02",
+  "category": "02-tables",
+  "size_kb": 491,
+  "tris": 1514,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.301,
+   0.418,
+   0.301
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/WoodenTable_03.glb",
+  "name": "WoodenTable_03",
+  "category": "02-tables",
+  "size_kb": 619,
+  "tris": 2298,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.373,
+   0.217,
+   0.442
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/chinese_tea_table.glb",
+  "name": "chinese_tea_table",
+  "category": "02-tables",
+  "size_kb": 1543,
+  "tris": 2508,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.841,
+   0.499,
+   0.836
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/dining_table.glb",
+  "name": "dining_table",
+  "category": "02-tables",
+  "size_kb": 2229,
+  "tris": 1048,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.047,
+   0.791,
+   1.152
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/gallinera_table.glb",
+  "name": "gallinera_table",
+  "category": "02-tables",
+  "size_kb": 1793,
+  "tris": 5528,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.83,
+   0.488,
+   0.518
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/metal_office_desk.glb",
+  "name": "metal_office_desk",
+  "category": "02-tables",
+  "size_kb": 1563,
+  "tris": 6898,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.411,
+   0.162,
+   0.779
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/painted_wooden_table.glb",
+  "name": "painted_wooden_table",
+  "category": "02-tables",
+  "size_kb": 1737,
+  "tris": 600,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.406,
+   0.959,
+   1.137
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/portable_generator.glb",
+  "name": "portable_generator",
+  "category": "02-tables",
+  "size_kb": 4087,
+  "tris": 26419,
+  "images": 5,
+  "materials": 2,
+  "dims_m": [
+   0.818,
+   0.577,
+   0.564
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/portable_searchlight.glb",
+  "name": "portable_searchlight",
+  "category": "02-tables",
+  "size_kb": 2180,
+  "tris": 18802,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.165,
+   0.185,
+   0.253
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/round_wooden_table_01.glb",
+  "name": "round_wooden_table_01",
+  "category": "02-tables",
+  "size_kb": 536,
+  "tris": 8640,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.399,
+   1.005,
+   1.399
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/round_wooden_table_02.glb",
+  "name": "round_wooden_table_02",
+  "category": "02-tables",
+  "size_kb": 1875,
+  "tris": 4254,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.796,
+   0.746,
+   0.796
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/side_table_01.glb",
+  "name": "side_table_01",
+  "category": "02-tables",
+  "size_kb": 492,
+  "tris": 2756,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.55,
+   0.551,
+   0.45
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/side_table_tall_01.glb",
+  "name": "side_table_tall_01",
+  "category": "02-tables",
+  "size_kb": 1517,
+  "tris": 6408,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.384,
+   0.761,
+   0.384
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/small_wooden_table_01.glb",
+  "name": "small_wooden_table_01",
+  "category": "02-tables",
+  "size_kb": 404,
+  "tris": 3410,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.916,
+   0.533,
+   0.44
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/wooden_picnic_table.glb",
+  "name": "wooden_picnic_table",
+  "category": "02-tables",
+  "size_kb": 4206,
+  "tris": 10210,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   2.241,
+   0.704,
+   3.022
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/02-tables/wooden_table_02.glb",
+  "name": "wooden_table_02",
+  "category": "02-tables",
+  "size_kb": 473,
+  "tris": 196,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.134,
+   0.8,
+   0.706
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/ClassicNightstand_01.glb",
+  "name": "ClassicNightstand_01",
+  "category": "03-beds",
+  "size_kb": 434,
+  "tris": 2002,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.568,
+   0.7,
+   0.424
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/GothicBed_01.glb",
+  "name": "GothicBed_01",
+  "category": "03-beds",
+  "size_kb": 1127,
+  "tris": 18745,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.494,
+   1.534,
+   2.04
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/GothicCommode_01.glb",
+  "name": "GothicCommode_01",
+  "category": "03-beds",
+  "size_kb": 587,
+  "tris": 3897,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.201,
+   1.212,
+   0.581
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/chinese_commode.glb",
+  "name": "chinese_commode",
+  "category": "03-beds",
+  "size_kb": 1863,
+  "tris": 6775,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.9,
+   0.382,
+   0.921
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/old_bed_frame.glb",
+  "name": "old_bed_frame",
+  "category": "03-beds",
+  "size_kb": 3946,
+  "tris": 49990,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.905,
+   1.201,
+   2.002
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/painted_wooden_nightstand.glb",
+  "name": "painted_wooden_nightstand",
+  "category": "03-beds",
+  "size_kb": 2099,
+  "tris": 470,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.505,
+   0.616,
+   0.503
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/throw_pillows_01.glb",
+  "name": "throw_pillows_01",
+  "category": "03-beds",
+  "size_kb": 1165,
+  "tris": 6362,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.519,
+   0.287,
+   0.443
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/03-beds/vintage_day_bed.glb",
+  "name": "vintage_day_bed",
+  "category": "03-beds",
+  "size_kb": 2368,
+  "tris": 2715,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.973,
+   1.127,
+   0.855
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/GothicCabinet_01.glb",
+  "name": "GothicCabinet_01",
+  "category": "04-storage-cabinets",
+  "size_kb": 988,
+  "tris": 12170,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.719,
+   2.361,
+   1.016
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/Shelf_01.glb",
+  "name": "Shelf_01",
+  "category": "04-storage-cabinets",
+  "size_kb": 590,
+  "tris": 182,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.003,
+   2.08,
+   0.257
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/chinese_cabinet.glb",
+  "name": "chinese_cabinet",
+  "category": "04-storage-cabinets",
+  "size_kb": 2283,
+  "tris": 15668,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.551,
+   0.934,
+   0.066
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/chinese_screen_panels.glb",
+  "name": "chinese_screen_panels",
+  "category": "04-storage-cabinets",
+  "size_kb": 1652,
+  "tris": 784,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.676,
+   1.603,
+   0.073
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/drawer_cabinet.glb",
+  "name": "drawer_cabinet",
+  "category": "04-storage-cabinets",
+  "size_kb": 1113,
+  "tris": 26406,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.141,
+   1.881,
+   0.487
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/metal_tool_chest.glb",
+  "name": "metal_tool_chest",
+  "category": "04-storage-cabinets",
+  "size_kb": 2299,
+  "tris": 13360,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.685,
+   0.348,
+   0.316
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/modern_wooden_cabinet.glb",
+  "name": "modern_wooden_cabinet",
+  "category": "04-storage-cabinets",
+  "size_kb": 2784,
+  "tris": 24976,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.44,
+   0.68,
+   0.52
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/old_military_crate.glb",
+  "name": "old_military_crate",
+  "category": "04-storage-cabinets",
+  "size_kb": 2433,
+  "tris": 10476,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.77,
+   0.057,
+   0.462
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/painted_wooden_cabinet.glb",
+  "name": "painted_wooden_cabinet",
+  "category": "04-storage-cabinets",
+  "size_kb": 1815,
+  "tris": 2227,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.195,
+   1.182,
+   0.546
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/painted_wooden_cabinet_02.glb",
+  "name": "painted_wooden_cabinet_02",
+  "category": "04-storage-cabinets",
+  "size_kb": 1557,
+  "tris": 966,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.997,
+   2.569,
+   0.654
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/plastic_crate_01.glb",
+  "name": "plastic_crate_01",
+  "category": "04-storage-cabinets",
+  "size_kb": 3113,
+  "tris": 18320,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.298,
+   0.264,
+   0.408
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/plastic_crate_02.glb",
+  "name": "plastic_crate_02",
+  "category": "04-storage-cabinets",
+  "size_kb": 1795,
+  "tris": 5840,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.506,
+   0.254,
+   0.406
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/plastic_crate_03.glb",
+  "name": "plastic_crate_03",
+  "category": "04-storage-cabinets",
+  "size_kb": 3261,
+  "tris": 21740,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.481,
+   0.266,
+   0.265
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/treasure_chest.glb",
+  "name": "treasure_chest",
+  "category": "04-storage-cabinets",
+  "size_kb": 5352,
+  "tris": 103330,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.959,
+   0.426,
+   0.516
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/vintage_cabinet_01.glb",
+  "name": "vintage_cabinet_01",
+  "category": "04-storage-cabinets",
+  "size_kb": 2795,
+  "tris": 61096,
+  "images": 7,
+  "materials": 3,
+  "dims_m": [
+   2.022,
+   2.235,
+   0.648
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/vintage_wooden_drawer_01.glb",
+  "name": "vintage_wooden_drawer_01",
+  "category": "04-storage-cabinets",
+  "size_kb": 2034,
+  "tris": 5184,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.715,
+   1.091,
+   0.884
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/wooden_bookshelf_worn.glb",
+  "name": "wooden_bookshelf_worn",
+  "category": "04-storage-cabinets",
+  "size_kb": 2711,
+  "tris": 10106,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.374,
+   2.063,
+   0.581
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/wooden_crate_01.glb",
+  "name": "wooden_crate_01",
+  "category": "04-storage-cabinets",
+  "size_kb": 2222,
+  "tris": 6576,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.708,
+   0.042,
+   0.392
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/wooden_crate_02.glb",
+  "name": "wooden_crate_02",
+  "category": "04-storage-cabinets",
+  "size_kb": 2182,
+  "tris": 5176,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.529,
+   0.445,
+   1.166
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/04-storage-cabinets/wooden_military_crate.glb",
+  "name": "wooden_military_crate",
+  "category": "04-storage-cabinets",
+  "size_kb": 2972,
+  "tris": 22986,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.242,
+   0.418,
+   0.52
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/Chandelier_01.glb",
+  "name": "Chandelier_01",
+  "category": "05-lighting",
+  "size_kb": 1274,
+  "tris": 26860,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   74.646,
+   81.555,
+   79.827
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/Chandelier_02.glb",
+  "name": "Chandelier_02",
+  "category": "05-lighting",
+  "size_kb": 1153,
+  "tris": 21514,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.679,
+   0.848,
+   0.619
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/Chandelier_03.glb",
+  "name": "Chandelier_03",
+  "category": "05-lighting",
+  "size_kb": 1330,
+  "tris": 29301,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.719,
+   1.041,
+   0.737
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/Lantern_01.glb",
+  "name": "Lantern_01",
+  "category": "05-lighting",
+  "size_kb": 1523,
+  "tris": 33902,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.122,
+   0.294,
+   0.097
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/brass_candleholders.glb",
+  "name": "brass_candleholders",
+  "category": "05-lighting",
+  "size_kb": 9361,
+  "tris": 41936,
+  "images": 14,
+  "materials": 5,
+  "dims_m": [
+   0.408,
+   0.809,
+   0.365
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/brass_diya_lantern.glb",
+  "name": "brass_diya_lantern",
+  "category": "05-lighting",
+  "size_kb": 2444,
+  "tris": 12742,
+  "images": 4,
+  "materials": 3,
+  "dims_m": [
+   0.024,
+   0.023,
+   0.016
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/caged_hanging_light.glb",
+  "name": "caged_hanging_light",
+  "category": "05-lighting",
+  "size_kb": 2994,
+  "tris": 22893,
+  "images": 4,
+  "materials": 1,
+  "dims_m": [
+   1.162,
+   0.75,
+   0.315
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/ceiling_fan.glb",
+  "name": "ceiling_fan",
+  "category": "05-lighting",
+  "size_kb": 1827,
+  "tris": 16356,
+  "images": 5,
+  "materials": 1,
+  "dims_m": [
+   0.318,
+   0.516,
+   0.318
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/chinese_chandelier.glb",
+  "name": "chinese_chandelier",
+  "category": "05-lighting",
+  "size_kb": 2108,
+  "tris": 7828,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.878,
+   0.748,
+   0.879
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/desk_lamp_arm_01.glb",
+  "name": "desk_lamp_arm_01",
+  "category": "05-lighting",
+  "size_kb": 2807,
+  "tris": 24102,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.202,
+   0.893,
+   0.614
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/flood_lights.glb",
+  "name": "flood_lights",
+  "category": "05-lighting",
+  "size_kb": 6677,
+  "tris": 76868,
+  "images": 7,
+  "materials": 2,
+  "dims_m": [
+   0.376,
+   1.376,
+   0.811
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/hanging_industrial_lamp.glb",
+  "name": "hanging_industrial_lamp",
+  "category": "05-lighting",
+  "size_kb": 3166,
+  "tris": 9530,
+  "images": 5,
+  "materials": 2,
+  "dims_m": [
+   0.55,
+   1.355,
+   0.55
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/industrial_pipe_lamp.glb",
+  "name": "industrial_pipe_lamp",
+  "category": "05-lighting",
+  "size_kb": 2349,
+  "tris": 8626,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.183,
+   0.364,
+   0.262
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/industrial_wall_lamp.glb",
+  "name": "industrial_wall_lamp",
+  "category": "05-lighting",
+  "size_kb": 3688,
+  "tris": 4446,
+  "images": 7,
+  "materials": 2,
+  "dims_m": [
+   0.273,
+   0.43,
+   0.14
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/lantern_chandelier_01.glb",
+  "name": "lantern_chandelier_01",
+  "category": "05-lighting",
+  "size_kb": 1443,
+  "tris": 5971,
+  "images": 7,
+  "materials": 3,
+  "dims_m": [
+   0.844,
+   1.279,
+   0.838
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/lightbulb_01.glb",
+  "name": "lightbulb_01",
+  "category": "05-lighting",
+  "size_kb": 1894,
+  "tris": 4372,
+  "images": 7,
+  "materials": 2,
+  "dims_m": [
+   0.06,
+   0.075,
+   0.06
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/lightbulb_led.glb",
+  "name": "lightbulb_led",
+  "category": "05-lighting",
+  "size_kb": 1196,
+  "tris": 6420,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.061,
+   0.1,
+   0.061
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/modern_ceiling_lamp_01.glb",
+  "name": "modern_ceiling_lamp_01",
+  "category": "05-lighting",
+  "size_kb": 423,
+  "tris": 5602,
+  "images": 3,
+  "materials": 3,
+  "dims_m": [
+   0.432,
+   0.307,
+   0.432
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/mounted_fluorescent_lights.glb",
+  "name": "mounted_fluorescent_lights",
+  "category": "05-lighting",
+  "size_kb": 1812,
+  "tris": 17820,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.912,
+   0.035,
+   0.04
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/pull_chain_light_socket.glb",
+  "name": "pull_chain_light_socket",
+  "category": "05-lighting",
+  "size_kb": 1999,
+  "tris": 10902,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.11,
+   0.051,
+   0.11
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/security_light.glb",
+  "name": "security_light",
+  "category": "05-lighting",
+  "size_kb": 2907,
+  "tris": 4668,
+  "images": 4,
+  "materials": 3,
+  "dims_m": [
+   0.323,
+   0.341,
+   0.417
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/street_lamp_01.glb",
+  "name": "street_lamp_01",
+  "category": "05-lighting",
+  "size_kb": 2414,
+  "tris": 30610,
+  "images": 4,
+  "materials": 3,
+  "dims_m": [
+   0.704,
+   3.871,
+   0.386
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/street_lamp_02.glb",
+  "name": "street_lamp_02",
+  "category": "05-lighting",
+  "size_kb": 2121,
+  "tris": 20338,
+  "images": 4,
+  "materials": 3,
+  "dims_m": [
+   0.386,
+   1.675,
+   0.807
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/vintage_flashlight.glb",
+  "name": "vintage_flashlight",
+  "category": "05-lighting",
+  "size_kb": 2327,
+  "tris": 10562,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.096,
+   0.144,
+   0.3
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/vintage_lighter.glb",
+  "name": "vintage_lighter",
+  "category": "05-lighting",
+  "size_kb": 2181,
+  "tris": 3366,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.039,
+   0.053,
+   0.014
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/vintage_oil_lamp.glb",
+  "name": "vintage_oil_lamp",
+  "category": "05-lighting",
+  "size_kb": 2109,
+  "tris": 7208,
+  "images": 8,
+  "materials": 3,
+  "dims_m": [
+   0.046,
+   0.375,
+   0.046
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/05-lighting/wooden_lantern_01.glb",
+  "name": "wooden_lantern_01",
+  "category": "05-lighting",
+  "size_kb": 3677,
+  "tris": 8321,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.221,
+   0.404,
+   0.221
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/CoffeeCart_01.glb",
+  "name": "CoffeeCart_01",
+  "category": "06-kitchen",
+  "size_kb": 1790,
+  "tris": 27659,
+  "images": 6,
+  "materials": 3,
+  "dims_m": [
+   1.441,
+   1.052,
+   0.717
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/CoffeeTable_01.glb",
+  "name": "CoffeeTable_01",
+  "category": "06-kitchen",
+  "size_kb": 934,
+  "tris": 10404,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.54,
+   0.523,
+   0.973
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/barrel_stove.glb",
+  "name": "barrel_stove",
+  "category": "06-kitchen",
+  "size_kb": 2096,
+  "tris": 9216,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.593,
+   0.856,
+   0.593
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/bleach_bottle.glb",
+  "name": "bleach_bottle",
+  "category": "06-kitchen",
+  "size_kb": 1238,
+  "tris": 4052,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.088,
+   0.294,
+   0.061
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/brass_goblets.glb",
+  "name": "brass_goblets",
+  "category": "06-kitchen",
+  "size_kb": 4662,
+  "tris": 9600,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   0.15,
+   0.272,
+   0.15
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/brass_pan_01.glb",
+  "name": "brass_pan_01",
+  "category": "06-kitchen",
+  "size_kb": 1577,
+  "tris": 4340,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.191,
+   0.053,
+   0.45
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/bunsen_burner.glb",
+  "name": "bunsen_burner",
+  "category": "06-kitchen",
+  "size_kb": 2082,
+  "tris": 8434,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.089,
+   0.153,
+   0.08
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/carrot_cake.glb",
+  "name": "carrot_cake",
+  "category": "06-kitchen",
+  "size_kb": 3283,
+  "tris": 13790,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.225,
+   0.098,
+   0.225
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/carved_wooden_plate.glb",
+  "name": "carved_wooden_plate",
+  "category": "06-kitchen",
+  "size_kb": 1527,
+  "tris": 2112,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.272,
+   0.038,
+   0.269
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/coffee_table_round_01.glb",
+  "name": "coffee_table_round_01",
+  "category": "06-kitchen",
+  "size_kb": 1526,
+  "tris": 4044,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.301,
+   0.491,
+   1.301
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/croissant.glb",
+  "name": "croissant",
+  "category": "06-kitchen",
+  "size_kb": 2049,
+  "tris": 1990,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.2,
+   0.062,
+   0.076
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/dustpan.glb",
+  "name": "dustpan",
+  "category": "06-kitchen",
+  "size_kb": 2222,
+  "tris": 4332,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.332,
+   0.1,
+   0.368
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/electric_stove.glb",
+  "name": "electric_stove",
+  "category": "06-kitchen",
+  "size_kb": 2422,
+  "tris": 13914,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.5,
+   0.859,
+   0.61
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/gothic_coffee_table.glb",
+  "name": "gothic_coffee_table",
+  "category": "06-kitchen",
+  "size_kb": 3189,
+  "tris": 23836,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.443,
+   0.559,
+   1.443
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/hamburger_buns.glb",
+  "name": "hamburger_buns",
+  "category": "06-kitchen",
+  "size_kb": 2256,
+  "tris": 11588,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.104,
+   0.063,
+   0.114
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/industrial_coffee_table.glb",
+  "name": "industrial_coffee_table",
+  "category": "06-kitchen",
+  "size_kb": 3168,
+  "tris": 41300,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.778,
+   0.758,
+   0.638
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/modern_coffee_table_01.glb",
+  "name": "modern_coffee_table_01",
+  "category": "06-kitchen",
+  "size_kb": 1299,
+  "tris": 4504,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.6,
+   0.39,
+   1.202
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/modern_coffee_table_02.glb",
+  "name": "modern_coffee_table_02",
+  "category": "06-kitchen",
+  "size_kb": 2885,
+  "tris": 13645,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   1.198,
+   0.368,
+   1.199
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/multi_cleaner_bottle.glb",
+  "name": "multi_cleaner_bottle",
+  "category": "06-kitchen",
+  "size_kb": 1346,
+  "tris": 6792,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.088,
+   0.229,
+   0.088
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/plastic_bottle_gallon.glb",
+  "name": "plastic_bottle_gallon",
+  "category": "06-kitchen",
+  "size_kb": 1352,
+  "tris": 13728,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.166,
+   0.274,
+   0.126
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/propane_tank.glb",
+  "name": "propane_tank",
+  "category": "06-kitchen",
+  "size_kb": 2161,
+  "tris": 5238,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.337,
+   0.554,
+   0.337
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/propane_torch.glb",
+  "name": "propane_torch",
+  "category": "06-kitchen",
+  "size_kb": 1694,
+  "tris": 4848,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.068,
+   0.328,
+   0.058
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/propane_torch_02.glb",
+  "name": "propane_torch_02",
+  "category": "06-kitchen",
+  "size_kb": 1623,
+  "tris": 2960,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.072,
+   0.4,
+   0.068
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/spray_paint_bottles.glb",
+  "name": "spray_paint_bottles",
+  "category": "06-kitchen",
+  "size_kb": 2202,
+  "tris": 5040,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.066,
+   0.229,
+   0.066
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/spray_paint_bottles_02.glb",
+  "name": "spray_paint_bottles_02",
+  "category": "06-kitchen",
+  "size_kb": 2177,
+  "tris": 6576,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.076,
+   0.217,
+   0.076
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/strawberry_chocolate_cake.glb",
+  "name": "strawberry_chocolate_cake",
+  "category": "06-kitchen",
+  "size_kb": 3253,
+  "tris": 27054,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.244,
+   0.079,
+   0.24
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/vintage_electric_kettle.glb",
+  "name": "vintage_electric_kettle",
+  "category": "06-kitchen",
+  "size_kb": 2900,
+  "tris": 14838,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.321,
+   0.305,
+   0.249
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/vintage_microwave.glb",
+  "name": "vintage_microwave",
+  "category": "06-kitchen",
+  "size_kb": 2071,
+  "tris": 8120,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   1.074,
+   0.526,
+   0.746
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/wine_bottles_01.glb",
+  "name": "wine_bottles_01",
+  "category": "06-kitchen",
+  "size_kb": 3914,
+  "tris": 28848,
+  "images": 13,
+  "materials": 12,
+  "dims_m": [
+   0.075,
+   0.298,
+   0.075
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/wooden_bowl_01.glb",
+  "name": "wooden_bowl_01",
+  "category": "06-kitchen",
+  "size_kb": 1780,
+  "tris": 14122,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.313,
+   0.094,
+   0.309
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/06-kitchen/wooden_bowl_02.glb",
+  "name": "wooden_bowl_02",
+  "category": "06-kitchen",
+  "size_kb": 2452,
+  "tris": 4666,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.131,
+   0.073,
+   0.125
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/Camera_01.glb",
+  "name": "Camera_01",
+  "category": "08-appliances-electronics",
+  "size_kb": 2379,
+  "tris": 26987,
+  "images": 9,
+  "materials": 4,
+  "dims_m": [
+   0.214,
+   0.058,
+   0.263
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/ClassicConsole_01.glb",
+  "name": "ClassicConsole_01",
+  "category": "08-appliances-electronics",
+  "size_kb": 722,
+  "tris": 7566,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.543,
+   0.949,
+   0.589
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/Megaphone_01.glb",
+  "name": "Megaphone_01",
+  "category": "08-appliances-electronics",
+  "size_kb": 757,
+  "tris": 15814,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.371,
+   0.3,
+   0.228
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/Television_01.glb",
+  "name": "Television_01",
+  "category": "08-appliances-electronics",
+  "size_kb": 518,
+  "tris": 1918,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.6,
+   0.457,
+   0.471
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/cassette_player.glb",
+  "name": "cassette_player",
+  "category": "08-appliances-electronics",
+  "size_kb": 1322,
+  "tris": 4830,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   0.129,
+   0.049,
+   0.237
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/chinese_console_table.glb",
+  "name": "chinese_console_table",
+  "category": "08-appliances-electronics",
+  "size_kb": 2726,
+  "tris": 13648,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.72,
+   0.661,
+   0.339
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/circuit_board.glb",
+  "name": "circuit_board",
+  "category": "08-appliances-electronics",
+  "size_kb": 4046,
+  "tris": 14430,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.404,
+   0.078,
+   0.397
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/classic_laptop.glb",
+  "name": "classic_laptop",
+  "category": "08-appliances-electronics",
+  "size_kb": 2130,
+  "tris": 14450,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.573,
+   0.012,
+   0.048
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/digital_wrist_watch.glb",
+  "name": "digital_wrist_watch",
+  "category": "08-appliances-electronics",
+  "size_kb": 2644,
+  "tris": 10390,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.036,
+   0.008,
+   0.038
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/exterior_aircon_unit.glb",
+  "name": "exterior_aircon_unit",
+  "category": "08-appliances-electronics",
+  "size_kb": 7485,
+  "tris": 18986,
+  "images": 12,
+  "materials": 4,
+  "dims_m": [
+   0.8,
+   0.928,
+   0.374
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/filmstrip_projector_8mm.glb",
+  "name": "filmstrip_projector_8mm",
+  "category": "08-appliances-electronics",
+  "size_kb": 3559,
+  "tris": 32697,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.023,
+   0.022,
+   0.022
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/fire_alarm.glb",
+  "name": "fire_alarm",
+  "category": "08-appliances-electronics",
+  "size_kb": 1902,
+  "tris": 2705,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.099,
+   0.144,
+   0.026
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/gamepad.glb",
+  "name": "gamepad",
+  "category": "08-appliances-electronics",
+  "size_kb": 1289,
+  "tris": 9546,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.404,
+   0.019,
+   0.435
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/gaming_console.glb",
+  "name": "gaming_console",
+  "category": "08-appliances-electronics",
+  "size_kb": 2908,
+  "tris": 31710,
+  "images": 4,
+  "materials": 1,
+  "dims_m": [
+   0.325,
+   0.1,
+   0.289
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/korean_public_payphone_01.glb",
+  "name": "korean_public_payphone_01",
+  "category": "08-appliances-electronics",
+  "size_kb": 5445,
+  "tris": 48132,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   40.057,
+   73.973,
+   30.122
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/pocket_watch.glb",
+  "name": "pocket_watch",
+  "category": "08-appliances-electronics",
+  "size_kb": 2024,
+  "tris": 15615,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.004,
+   0.003,
+   0.002
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/portable_cassette_player.glb",
+  "name": "portable_cassette_player",
+  "category": "08-appliances-electronics",
+  "size_kb": 3090,
+  "tris": 13307,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.071,
+   0.104,
+   0.011
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/projector_screen.glb",
+  "name": "projector_screen",
+  "category": "08-appliances-electronics",
+  "size_kb": 3033,
+  "tris": 8727,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   1.094,
+   1.099,
+   0.138
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/security_camera_01.glb",
+  "name": "security_camera_01",
+  "category": "08-appliances-electronics",
+  "size_kb": 2225,
+  "tris": 13571,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.17,
+   0.286,
+   0.554
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/security_camera_02.glb",
+  "name": "security_camera_02",
+  "category": "08-appliances-electronics",
+  "size_kb": 2038,
+  "tris": 12477,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.054,
+   0.089,
+   0.171
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/television_02.glb",
+  "name": "television_02",
+  "category": "08-appliances-electronics",
+  "size_kb": 1210,
+  "tris": 2310,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.4,
+   0.411,
+   0.35
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/vintage_pocket_watch.glb",
+  "name": "vintage_pocket_watch",
+  "category": "08-appliances-electronics",
+  "size_kb": 1944,
+  "tris": 16098,
+  "images": 3,
+  "materials": 3,
+  "dims_m": [
+   0.023,
+   0.023,
+   0.002
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/vintage_radio_transceiver.glb",
+  "name": "vintage_radio_transceiver",
+  "category": "08-appliances-electronics",
+  "size_kb": 6144,
+  "tris": 42350,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.258,
+   0.136,
+   0.316
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/vintage_telephone_wall_clock.glb",
+  "name": "vintage_telephone_wall_clock",
+  "category": "08-appliances-electronics",
+  "size_kb": 3176,
+  "tris": 15864,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.133,
+   0.133,
+   0.002
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/08-appliances-electronics/vintage_video_camera.glb",
+  "name": "vintage_video_camera",
+  "category": "08-appliances-electronics",
+  "size_kb": 2645,
+  "tris": 18682,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.071,
+   0.145,
+   0.133
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/alarm_clock_01.glb",
+  "name": "alarm_clock_01",
+  "category": "09-decor-plants",
+  "size_kb": 2946,
+  "tris": 8985,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.062,
+   0.132,
+   0.174
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/anthurium_botany_01.glb",
+  "name": "anthurium_botany_01",
+  "category": "09-decor-plants",
+  "size_kb": 3160,
+  "tris": 67152,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.896,
+   0.5,
+   1.142
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/antique_ceramic_vase_01.glb",
+  "name": "antique_ceramic_vase_01",
+  "category": "09-decor-plants",
+  "size_kb": 513,
+  "tris": 9408,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.255,
+   0.44,
+   0.255
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/bark_debris_01.glb",
+  "name": "bark_debris_01",
+  "category": "09-decor-plants",
+  "size_kb": 7876,
+  "tris": 193406,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.187,
+   0.066,
+   0.399
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/binder_notebook.glb",
+  "name": "binder_notebook",
+  "category": "09-decor-plants",
+  "size_kb": 1844,
+  "tris": 18077,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.365,
+   0.018,
+   0.2
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/book_encyclopedia_set_01.glb",
+  "name": "book_encyclopedia_set_01",
+  "category": "09-decor-plants",
+  "size_kb": 3162,
+  "tris": 67306,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.039,
+   0.237,
+   0.163
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/brass_pot_01.glb",
+  "name": "brass_pot_01",
+  "category": "09-decor-plants",
+  "size_kb": 1487,
+  "tris": 3760,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.302,
+   0.291,
+   0.302
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/brass_pot_02.glb",
+  "name": "brass_pot_02",
+  "category": "09-decor-plants",
+  "size_kb": 1378,
+  "tris": 3344,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.367,
+   0.109,
+   0.302
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/brass_vase_01.glb",
+  "name": "brass_vase_01",
+  "category": "09-decor-plants",
+  "size_kb": 822,
+  "tris": 21440,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.227,
+   0.692,
+   0.227
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/brass_vase_02.glb",
+  "name": "brass_vase_02",
+  "category": "09-decor-plants",
+  "size_kb": 1787,
+  "tris": 6890,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.21,
+   0.529,
+   0.21
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/brass_vase_03.glb",
+  "name": "brass_vase_03",
+  "category": "09-decor-plants",
+  "size_kb": 1544,
+  "tris": 2616,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.083,
+   0.2,
+   0.083
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/brass_vase_04.glb",
+  "name": "brass_vase_04",
+  "category": "09-decor-plants",
+  "size_kb": 384,
+  "tris": 2760,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.082,
+   0.17,
+   0.061
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/bronze_ray_statue.glb",
+  "name": "bronze_ray_statue",
+  "category": "09-decor-plants",
+  "size_kb": 1969,
+  "tris": 1844,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.707,
+   0.59,
+   0.536
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/bronze_shark_statue.glb",
+  "name": "bronze_shark_statue",
+  "category": "09-decor-plants",
+  "size_kb": 2021,
+  "tris": 7334,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.352,
+   0.432,
+   0.76
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/bronze_whale_statue.glb",
+  "name": "bronze_whale_statue",
+  "category": "09-decor-plants",
+  "size_kb": 2138,
+  "tris": 3816,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.932,
+   1.073,
+   1.366
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/bull_head.glb",
+  "name": "bull_head",
+  "category": "09-decor-plants",
+  "size_kb": 1973,
+  "tris": 17148,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.306,
+   0.433,
+   0.281
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/carved_wooden_elephant.glb",
+  "name": "carved_wooden_elephant",
+  "category": "09-decor-plants",
+  "size_kb": 1819,
+  "tris": 2752,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.109,
+   0.096,
+   0.058
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/ceramic_pot.glb",
+  "name": "ceramic_pot",
+  "category": "09-decor-plants",
+  "size_kb": 1602,
+  "tris": 3592,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.656,
+   0.372,
+   0.502
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/ceramic_vase_01.glb",
+  "name": "ceramic_vase_01",
+  "category": "09-decor-plants",
+  "size_kb": 408,
+  "tris": 10296,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.204,
+   0.4,
+   0.204
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/ceramic_vase_02.glb",
+  "name": "ceramic_vase_02",
+  "category": "09-decor-plants",
+  "size_kb": 732,
+  "tris": 11128,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.218,
+   0.309,
+   0.218
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/ceramic_vase_03.glb",
+  "name": "ceramic_vase_03",
+  "category": "09-decor-plants",
+  "size_kb": 746,
+  "tris": 11136,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.112,
+   0.414,
+   0.112
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/ceramic_vase_04.glb",
+  "name": "ceramic_vase_04",
+  "category": "09-decor-plants",
+  "size_kb": 581,
+  "tris": 9000,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.181,
+   0.342,
+   0.181
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/cheiridopsis_succulent.glb",
+  "name": "cheiridopsis_succulent",
+  "category": "09-decor-plants",
+  "size_kb": 4667,
+  "tris": 82438,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.201,
+   0.185,
+   0.177
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/chess_set.glb",
+  "name": "chess_set",
+  "category": "09-decor-plants",
+  "size_kb": 6799,
+  "tris": 76920,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   0.037,
+   0.061,
+   0.037
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/concrete_cat_statue.glb",
+  "name": "concrete_cat_statue",
+  "category": "09-decor-plants",
+  "size_kb": 3025,
+  "tris": 11950,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.153,
+   0.283,
+   0.25
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/crystalline_iceplant.glb",
+  "name": "crystalline_iceplant",
+  "category": "09-decor-plants",
+  "size_kb": 2546,
+  "tris": 13094,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.276,
+   0.081,
+   0.316
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/dead_quiver_branch_01.glb",
+  "name": "dead_quiver_branch_01",
+  "category": "09-decor-plants",
+  "size_kb": 2641,
+  "tris": 14834,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.255,
+   0.439,
+   0.227
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/dead_quiver_branch_02.glb",
+  "name": "dead_quiver_branch_02",
+  "category": "09-decor-plants",
+  "size_kb": 2157,
+  "tris": 14386,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.287,
+   0.526,
+   0.201
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/dead_tree_trunk.glb",
+  "name": "dead_tree_trunk",
+  "category": "09-decor-plants",
+  "size_kb": 4674,
+  "tris": 101802,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   3.051,
+   0.29,
+   0.278
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/dead_tree_trunk_02.glb",
+  "name": "dead_tree_trunk_02",
+  "category": "09-decor-plants",
+  "size_kb": 4791,
+  "tris": 83128,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   4.051,
+   1.055,
+   1.056
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/dry_branches_medium_01.glb",
+  "name": "dry_branches_medium_01",
+  "category": "09-decor-plants",
+  "size_kb": 3173,
+  "tris": 16803,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.131,
+   0.143,
+   0.777
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/dry_quiver_leaf.glb",
+  "name": "dry_quiver_leaf",
+  "category": "09-decor-plants",
+  "size_kb": 4382,
+  "tris": 78720,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.131,
+   0.398,
+   0.15
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/fancy_picture_frame_01.glb",
+  "name": "fancy_picture_frame_01",
+  "category": "09-decor-plants",
+  "size_kb": 722,
+  "tris": 938,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.603,
+   0.464,
+   0.02
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/fancy_picture_frame_02.glb",
+  "name": "fancy_picture_frame_02",
+  "category": "09-decor-plants",
+  "size_kb": 1686,
+  "tris": 35102,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.661,
+   0.771,
+   0.089
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/fern_02.glb",
+  "name": "fern_02",
+  "category": "09-decor-plants",
+  "size_kb": 1117,
+  "tris": 6232,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.99,
+   0.428,
+   0.894
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/fir_sapling.glb",
+  "name": "fir_sapling",
+  "category": "09-decor-plants",
+  "size_kb": 24824,
+  "tris": 433021,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.528,
+   1.116,
+   0.56
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/flower_empodium.glb",
+  "name": "flower_empodium",
+  "category": "09-decor-plants",
+  "size_kb": 874,
+  "tris": 3053,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.217,
+   0.267,
+   0.251
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/flower_gazania.glb",
+  "name": "flower_gazania",
+  "category": "09-decor-plants",
+  "size_kb": 2774,
+  "tris": 14340,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.979,
+   0.402,
+   0.961
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/flower_heliophila.glb",
+  "name": "flower_heliophila",
+  "category": "09-decor-plants",
+  "size_kb": 3757,
+  "tris": 101621,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.663,
+   0.399,
+   1.417
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/flower_stinkkruid.glb",
+  "name": "flower_stinkkruid",
+  "category": "09-decor-plants",
+  "size_kb": 4666,
+  "tris": 80716,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.35,
+   0.176,
+   0.3
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/flower_ursinia.glb",
+  "name": "flower_ursinia",
+  "category": "09-decor-plants",
+  "size_kb": 2043,
+  "tris": 24933,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.425,
+   0.164,
+   0.343
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/gothic_statue.glb",
+  "name": "gothic_statue",
+  "category": "09-decor-plants",
+  "size_kb": 3884,
+  "tris": 27739,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.477,
+   1.74,
+   1.564
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/grass_bermuda_01.glb",
+  "name": "grass_bermuda_01",
+  "category": "09-decor-plants",
+  "size_kb": 1403,
+  "tris": 941,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.068,
+   0.025,
+   0.084
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/grass_medium_01.glb",
+  "name": "grass_medium_01",
+  "category": "09-decor-plants",
+  "size_kb": 2982,
+  "tris": 24730,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.185,
+   0.14,
+   0.162
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/grass_medium_02.glb",
+  "name": "grass_medium_02",
+  "category": "09-decor-plants",
+  "size_kb": 779,
+  "tris": 7842,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.119,
+   0.157,
+   0.12
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/hanging_picture_frame_01.glb",
+  "name": "hanging_picture_frame_01",
+  "category": "09-decor-plants",
+  "size_kb": 472,
+  "tris": 2586,
+  "images": 7,
+  "materials": 3,
+  "dims_m": [
+   0.572,
+   0.819,
+   0.0
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/hanging_picture_frame_02.glb",
+  "name": "hanging_picture_frame_02",
+  "category": "09-decor-plants",
+  "size_kb": 677,
+  "tris": 3678,
+  "images": 6,
+  "materials": 3,
+  "dims_m": [
+   0.604,
+   0.354,
+   0.0
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/hanging_picture_frame_03.glb",
+  "name": "hanging_picture_frame_03",
+  "category": "09-decor-plants",
+  "size_kb": 1338,
+  "tris": 24348,
+  "images": 8,
+  "materials": 3,
+  "dims_m": [
+   0.385,
+   0.502,
+   0.021
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/horse_statue_01.glb",
+  "name": "horse_statue_01",
+  "category": "09-decor-plants",
+  "size_kb": 1251,
+  "tris": 22388,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.163,
+   0.209,
+   0.106
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/island_tree_02.glb",
+  "name": "island_tree_02",
+  "category": "09-decor-plants",
+  "size_kb": 45087,
+  "tris": 1072213,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   2.358,
+   2.617,
+   2.72
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/mantel_clock_01.glb",
+  "name": "mantel_clock_01",
+  "category": "09-decor-plants",
+  "size_kb": 3052,
+  "tris": 25721,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.342,
+   0.16,
+   0.126
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/modular_street_seating.glb",
+  "name": "modular_street_seating",
+  "category": "09-decor-plants",
+  "size_kb": 7428,
+  "tris": 25156,
+  "images": 12,
+  "materials": 5,
+  "dims_m": [
+   1.862,
+   0.04,
+   0.04
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/nettle_plant.glb",
+  "name": "nettle_plant",
+  "category": "09-decor-plants",
+  "size_kb": 2415,
+  "tris": 31304,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.077,
+   0.131,
+   0.089
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/ornate_mirror_01.glb",
+  "name": "ornate_mirror_01",
+  "category": "09-decor-plants",
+  "size_kb": 660,
+  "tris": 14246,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.486,
+   0.744,
+   0.026
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/periwinkle_plant.glb",
+  "name": "periwinkle_plant",
+  "category": "09-decor-plants",
+  "size_kb": 2850,
+  "tris": 34350,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.156,
+   0.265,
+   0.184
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/pine_sapling_small.glb",
+  "name": "pine_sapling_small",
+  "category": "09-decor-plants",
+  "size_kb": 21374,
+  "tris": 398144,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.274,
+   0.962,
+   0.549
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/planter_box_01.glb",
+  "name": "planter_box_01",
+  "category": "09-decor-plants",
+  "size_kb": 2284,
+  "tris": 8094,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.913,
+   0.425,
+   0.414
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/planter_box_02.glb",
+  "name": "planter_box_02",
+  "category": "09-decor-plants",
+  "size_kb": 2410,
+  "tris": 10944,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.252,
+   0.453,
+   0.467
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/planter_box_03.glb",
+  "name": "planter_box_03",
+  "category": "09-decor-plants",
+  "size_kb": 2497,
+  "tris": 13112,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.914,
+   0.855,
+   0.656
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/planter_pot_clay.glb",
+  "name": "planter_pot_clay",
+  "category": "09-decor-plants",
+  "size_kb": 1754,
+  "tris": 3080,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.266,
+   0.222,
+   0.263
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/pot_enamel_01.glb",
+  "name": "pot_enamel_01",
+  "category": "09-decor-plants",
+  "size_kb": 1702,
+  "tris": 11416,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.18,
+   0.049,
+   0.18
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/potted_plant_01.glb",
+  "name": "potted_plant_01",
+  "category": "09-decor-plants",
+  "size_kb": 6174,
+  "tris": 176226,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.371,
+   0.856,
+   0.393
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/potted_plant_02.glb",
+  "name": "potted_plant_02",
+  "category": "09-decor-plants",
+  "size_kb": 2571,
+  "tris": 69806,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.474,
+   0.336,
+   0.474
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/potted_plant_04.glb",
+  "name": "potted_plant_04",
+  "category": "09-decor-plants",
+  "size_kb": 2070,
+  "tris": 8929,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.147,
+   0.022,
+   0.149
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/quiver_tree_01.glb",
+  "name": "quiver_tree_01",
+  "category": "09-decor-plants",
+  "size_kb": 8671,
+  "tris": 150124,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.616,
+   2.434,
+   0.456
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/quiver_tree_02.glb",
+  "name": "quiver_tree_02",
+  "category": "09-decor-plants",
+  "size_kb": 4440,
+  "tris": 82074,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.872,
+   1.469,
+   0.881
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/standing_picture_frame_01.glb",
+  "name": "standing_picture_frame_01",
+  "category": "09-decor-plants",
+  "size_kb": 668,
+  "tris": 1634,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   0.044,
+   0.225,
+   0.179
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/standing_picture_frame_02.glb",
+  "name": "standing_picture_frame_02",
+  "category": "09-decor-plants",
+  "size_kb": 877,
+  "tris": 2986,
+  "images": 8,
+  "materials": 3,
+  "dims_m": [
+   0.028,
+   0.185,
+   0.135
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/street_rat.glb",
+  "name": "street_rat",
+  "category": "09-decor-plants",
+  "size_kb": 3525,
+  "tris": 57216,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.032,
+   0.034,
+   0.148
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/sweet_potato.glb",
+  "name": "sweet_potato",
+  "category": "09-decor-plants",
+  "size_kb": 1727,
+  "tris": 2042,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.058,
+   0.1,
+   0.061
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/tree_stump_01.glb",
+  "name": "tree_stump_01",
+  "category": "09-decor-plants",
+  "size_kb": 3846,
+  "tris": 41046,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.426,
+   0.573,
+   1.59
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/tree_stump_02.glb",
+  "name": "tree_stump_02",
+  "category": "09-decor-plants",
+  "size_kb": 4364,
+  "tris": 62345,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.522,
+   0.522,
+   1.393
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/vintage_grandfather_clock_01.glb",
+  "name": "vintage_grandfather_clock_01",
+  "category": "09-decor-plants",
+  "size_kb": 2918,
+  "tris": 8582,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.626,
+   2.191,
+   0.427
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/wall_clock.glb",
+  "name": "wall_clock",
+  "category": "09-decor-plants",
+  "size_kb": 1525,
+  "tris": 3658,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.118,
+   0.076,
+   0.0
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/weed_plant_02.glb",
+  "name": "weed_plant_02",
+  "category": "09-decor-plants",
+  "size_kb": 1997,
+  "tris": 11116,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.219,
+   0.072,
+   0.291
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/wild_rooibos_bush.glb",
+  "name": "wild_rooibos_bush",
+  "category": "09-decor-plants",
+  "size_kb": 3128,
+  "tris": 27519,
+  "images": 5,
+  "materials": 3,
+  "dims_m": [
+   0.612,
+   0.539,
+   0.758
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/09-decor-plants/wooden_candlestick.glb",
+  "name": "wooden_candlestick",
+  "category": "09-decor-plants",
+  "size_kb": 8231,
+  "tris": 212992,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.097,
+   0.22,
+   0.099
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/Rockingchair_01.glb",
+  "name": "Rockingchair_01",
+  "category": "10-outdoor",
+  "size_kb": 785,
+  "tris": 11866,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.708,
+   0.995,
+   0.833
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/boulder_01.glb",
+  "name": "boulder_01",
+  "category": "10-outdoor",
+  "size_kb": 5636,
+  "tris": 66122,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.272,
+   1.004,
+   1.83
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/cardboard_box_01.glb",
+  "name": "cardboard_box_01",
+  "category": "10-outdoor",
+  "size_kb": 2117,
+  "tris": 16952,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.387,
+   0.342,
+   0.516
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_land_rocks_02.glb",
+  "name": "coast_land_rocks_02",
+  "category": "10-outdoor",
+  "size_kb": 38683,
+  "tris": 1291146,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   4.889,
+   1.398,
+   10.454
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_land_rocks_03.glb",
+  "name": "coast_land_rocks_03",
+  "category": "10-outdoor",
+  "size_kb": 33198,
+  "tris": 1096655,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   8.975,
+   1.528,
+   5.63
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_land_rocks_04.glb",
+  "name": "coast_land_rocks_04",
+  "category": "10-outdoor",
+  "size_kb": 32829,
+  "tris": 1086668,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   9.963,
+   0.846,
+   11.501
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_line_01.glb",
+  "name": "coast_line_01",
+  "category": "10-outdoor",
+  "size_kb": 17318,
+  "tris": 539491,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   54.612,
+   2.634,
+   42.964
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_line_02.glb",
+  "name": "coast_line_02",
+  "category": "10-outdoor",
+  "size_kb": 23361,
+  "tris": 756940,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   45.639,
+   2.287,
+   23.281
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_rocks_01.glb",
+  "name": "coast_rocks_01",
+  "category": "10-outdoor",
+  "size_kb": 21175,
+  "tris": 679936,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   59.507,
+   3.289,
+   42.52
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_rocks_02.glb",
+  "name": "coast_rocks_02",
+  "category": "10-outdoor",
+  "size_kb": 37555,
+  "tris": 1260423,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   45.965,
+   3.171,
+   49.465
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_rocks_03.glb",
+  "name": "coast_rocks_03",
+  "category": "10-outdoor",
+  "size_kb": 25041,
+  "tris": 813464,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   21.121,
+   3.198,
+   28.27
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coast_rocks_05.glb",
+  "name": "coast_rocks_05",
+  "category": "10-outdoor",
+  "size_kb": 24688,
+  "tris": 771724,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   4.039,
+   1.331,
+   3.748
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coastal_cliff_01.glb",
+  "name": "coastal_cliff_01",
+  "category": "10-outdoor",
+  "size_kb": 15015,
+  "tris": 461824,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   91.98,
+   10.326,
+   10.967
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coastal_cliff_02.glb",
+  "name": "coastal_cliff_02",
+  "category": "10-outdoor",
+  "size_kb": 28473,
+  "tris": 943284,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   40.928,
+   10.053,
+   8.648
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/coastal_cliff_04.glb",
+  "name": "coastal_cliff_04",
+  "category": "10-outdoor",
+  "size_kb": 45392,
+  "tris": 1537926,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   86.772,
+   11.0,
+   24.247
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/concrete_road_barrier.glb",
+  "name": "concrete_road_barrier",
+  "category": "10-outdoor",
+  "size_kb": 3662,
+  "tris": 60928,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.545,
+   0.831,
+   0.639
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/concrete_road_barrier_02.glb",
+  "name": "concrete_road_barrier_02",
+  "category": "10-outdoor",
+  "size_kb": 2858,
+  "tris": 23822,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.565,
+   1.112,
+   0.442
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/covered_car.glb",
+  "name": "covered_car",
+  "category": "10-outdoor",
+  "size_kb": 2290,
+  "tris": 12592,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.161,
+   0.598,
+   0.598
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/dead_quiver_trunk.glb",
+  "name": "dead_quiver_trunk",
+  "category": "10-outdoor",
+  "size_kb": 2216,
+  "tris": 17978,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.306,
+   1.994,
+   0.268
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/dutch_ship_large_01.glb",
+  "name": "dutch_ship_large_01",
+  "category": "10-outdoor",
+  "size_kb": 10541,
+  "tris": 110616,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   30.376,
+   11.984,
+   8.387
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/dutch_ship_large_02.glb",
+  "name": "dutch_ship_large_02",
+  "category": "10-outdoor",
+  "size_kb": 9583,
+  "tris": 96506,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   8.36,
+   27.24,
+   34.251
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/dutch_ship_medium.glb",
+  "name": "dutch_ship_medium",
+  "category": "10-outdoor",
+  "size_kb": 8528,
+  "tris": 69162,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   23.728,
+   21.458,
+   6.809
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/fire_hydrant.glb",
+  "name": "fire_hydrant",
+  "category": "10-outdoor",
+  "size_kb": 5384,
+  "tris": 86316,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.254,
+   0.799,
+   0.284
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/garden_gloves_01.glb",
+  "name": "garden_gloves_01",
+  "category": "10-outdoor",
+  "size_kb": 2836,
+  "tris": 6822,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.227,
+   0.076,
+   0.299
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/garden_gnome.glb",
+  "name": "garden_gnome",
+  "category": "10-outdoor",
+  "size_kb": 2396,
+  "tris": 28858,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.258,
+   0.599,
+   0.21
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/garden_hose_wall_mounted_01.glb",
+  "name": "garden_hose_wall_mounted_01",
+  "category": "10-outdoor",
+  "size_kb": 2523,
+  "tris": 11684,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.034,
+   0.193,
+   0.25
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/garden_sprinkler_01.glb",
+  "name": "garden_sprinkler_01",
+  "category": "10-outdoor",
+  "size_kb": 2845,
+  "tris": 8192,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.03,
+   0.056,
+   0.03
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/gate_latch_01.glb",
+  "name": "gate_latch_01",
+  "category": "10-outdoor",
+  "size_kb": 2029,
+  "tris": 5480,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.061,
+   0.077,
+   0.065
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/industrial_storage_cart.glb",
+  "name": "industrial_storage_cart",
+  "category": "10-outdoor",
+  "size_kb": 2575,
+  "tris": 18902,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.603,
+   1.377,
+   1.103
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/large_iron_gate.glb",
+  "name": "large_iron_gate",
+  "category": "10-outdoor",
+  "size_kb": 3052,
+  "tris": 38140,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.47,
+   2.929,
+   0.085
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/modular_chainlink_fence.glb",
+  "name": "modular_chainlink_fence",
+  "category": "10-outdoor",
+  "size_kb": 7104,
+  "tris": 89232,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.258,
+   0.029,
+   0.07
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_01.glb",
+  "name": "moon_rock_01",
+  "category": "10-outdoor",
+  "size_kb": 1665,
+  "tris": 18668,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.212,
+   0.075,
+   0.112
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_02.glb",
+  "name": "moon_rock_02",
+  "category": "10-outdoor",
+  "size_kb": 1481,
+  "tris": 3304,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.246,
+   0.202,
+   0.251
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_03.glb",
+  "name": "moon_rock_03",
+  "category": "10-outdoor",
+  "size_kb": 1433,
+  "tris": 5598,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.112,
+   0.058,
+   0.086
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_04.glb",
+  "name": "moon_rock_04",
+  "category": "10-outdoor",
+  "size_kb": 1495,
+  "tris": 7636,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.12,
+   0.054,
+   0.174
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_05.glb",
+  "name": "moon_rock_05",
+  "category": "10-outdoor",
+  "size_kb": 1494,
+  "tris": 9850,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.072,
+   0.073,
+   0.081
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_06.glb",
+  "name": "moon_rock_06",
+  "category": "10-outdoor",
+  "size_kb": 1445,
+  "tris": 6920,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.086,
+   0.055,
+   0.092
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/moon_rock_07.glb",
+  "name": "moon_rock_07",
+  "category": "10-outdoor",
+  "size_kb": 1349,
+  "tris": 6820,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.097,
+   0.06,
+   0.074
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_boulder_02.glb",
+  "name": "namaqualand_boulder_02",
+  "category": "10-outdoor",
+  "size_kb": 5018,
+  "tris": 97964,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.532,
+   0.883,
+   1.234
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_boulder_03.glb",
+  "name": "namaqualand_boulder_03",
+  "category": "10-outdoor",
+  "size_kb": 3689,
+  "tris": 64826,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.407,
+   1.473,
+   3.065
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_boulder_04.glb",
+  "name": "namaqualand_boulder_04",
+  "category": "10-outdoor",
+  "size_kb": 3628,
+  "tris": 59066,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.522,
+   1.9,
+   2.496
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_boulder_05.glb",
+  "name": "namaqualand_boulder_05",
+  "category": "10-outdoor",
+  "size_kb": 4589,
+  "tris": 89618,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.364,
+   0.538,
+   0.748
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_boulder_06.glb",
+  "name": "namaqualand_boulder_06",
+  "category": "10-outdoor",
+  "size_kb": 5128,
+  "tris": 109114,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.675,
+   0.652,
+   1.212
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_boulders_01.glb",
+  "name": "namaqualand_boulders_01",
+  "category": "10-outdoor",
+  "size_kb": 3554,
+  "tris": 40850,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.363,
+   0.252,
+   0.551
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_cliff_01.glb",
+  "name": "namaqualand_cliff_01",
+  "category": "10-outdoor",
+  "size_kb": 4437,
+  "tris": 94369,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   8.279,
+   4.961,
+   4.39
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_cliff_02.glb",
+  "name": "namaqualand_cliff_02",
+  "category": "10-outdoor",
+  "size_kb": 8182,
+  "tris": 194080,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   20.228,
+   7.184,
+   6.593
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/namaqualand_rocks_01.glb",
+  "name": "namaqualand_rocks_01",
+  "category": "10-outdoor",
+  "size_kb": 4688,
+  "tris": 85716,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.227,
+   0.152,
+   0.217
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/portable_welding_cart.glb",
+  "name": "portable_welding_cart",
+  "category": "10-outdoor",
+  "size_kb": 3422,
+  "tris": 29418,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.838,
+   1.563,
+   0.655
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/postcard_set_01.glb",
+  "name": "postcard_set_01",
+  "category": "10-outdoor",
+  "size_kb": 496,
+  "tris": 2720,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.167,
+   0.0,
+   0.105
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/rock_07.glb",
+  "name": "rock_07",
+  "category": "10-outdoor",
+  "size_kb": 2132,
+  "tris": 14844,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.169,
+   0.144,
+   0.32
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/rock_09.glb",
+  "name": "rock_09",
+  "category": "10-outdoor",
+  "size_kb": 1917,
+  "tris": 12416,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.074,
+   0.033,
+   0.145
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/rock_face_01.glb",
+  "name": "rock_face_01",
+  "category": "10-outdoor",
+  "size_kb": 2978,
+  "tris": 20174,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   4.954,
+   3.564,
+   3.827
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/rock_face_02.glb",
+  "name": "rock_face_02",
+  "category": "10-outdoor",
+  "size_kb": 3445,
+  "tris": 29566,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.711,
+   2.472,
+   2.127
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/rock_moss_set_01.glb",
+  "name": "rock_moss_set_01",
+  "category": "10-outdoor",
+  "size_kb": 1888,
+  "tris": 63127,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.238,
+   1.473,
+   3.369
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/rock_moss_set_02.glb",
+  "name": "rock_moss_set_02",
+  "category": "10-outdoor",
+  "size_kb": 1892,
+  "tris": 57647,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.206,
+   0.529,
+   0.984
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/sand_rocks_small_01.glb",
+  "name": "sand_rocks_small_01",
+  "category": "10-outdoor",
+  "size_kb": 23252,
+  "tris": 739469,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   4.627,
+   0.535,
+   3.883
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/ship_pinnace.glb",
+  "name": "ship_pinnace",
+  "category": "10-outdoor",
+  "size_kb": 20575,
+  "tris": 168317,
+  "images": 21,
+  "materials": 7,
+  "dims_m": [
+   8.194,
+   7.725,
+   5.162
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/10-outdoor/tool_cart.glb",
+  "name": "tool_cart",
+  "category": "10-outdoor",
+  "size_kb": 3097,
+  "tris": 29394,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.273,
+   0.965,
+   0.754
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/Barrel_01.glb",
+  "name": "Barrel_01",
+  "category": "11-tools-misc",
+  "size_kb": 676,
+  "tris": 2682,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.563,
+   0.88,
+   0.563
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/Barrel_02.glb",
+  "name": "Barrel_02",
+  "category": "11-tools-misc",
+  "size_kb": 411,
+  "tris": 2688,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.488,
+   0.88,
+   0.485
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/CheeseBox_01.glb",
+  "name": "CheeseBox_01",
+  "category": "11-tools-misc",
+  "size_kb": 481,
+  "tris": 884,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.24,
+   0.064,
+   0.106
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/Drill_01.glb",
+  "name": "Drill_01",
+  "category": "11-tools-misc",
+  "size_kb": 488,
+  "tris": 2926,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.183,
+   0.185,
+   0.052
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/WetFloorSign_01.glb",
+  "name": "WetFloorSign_01",
+  "category": "11-tools-misc",
+  "size_kb": 259,
+  "tris": 228,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.3,
+   0.63,
+   0.359
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/adjustable_wrench.glb",
+  "name": "adjustable_wrench",
+  "category": "11-tools-misc",
+  "size_kb": 2578,
+  "tris": 5390,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.053,
+   0.117,
+   0.017
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/all_purpose_cleaner.glb",
+  "name": "all_purpose_cleaner",
+  "category": "11-tools-misc",
+  "size_kb": 1029,
+  "tris": 4624,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.157,
+   0.32,
+   0.117
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/ammo_box.glb",
+  "name": "ammo_box",
+  "category": "11-tools-misc",
+  "size_kb": 1435,
+  "tris": 4382,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.026,
+   0.02,
+   0.01
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/barrel_03.glb",
+  "name": "barrel_03",
+  "category": "11-tools-misc",
+  "size_kb": 560,
+  "tris": 1473,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.634,
+   0.93,
+   0.639
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/bolt_cutters_01.glb",
+  "name": "bolt_cutters_01",
+  "category": "11-tools-misc",
+  "size_kb": 2438,
+  "tris": 3410,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.151,
+   0.803,
+   0.036
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/boombox.glb",
+  "name": "boombox",
+  "category": "11-tools-misc",
+  "size_kb": 2995,
+  "tris": 10168,
+  "images": 5,
+  "materials": 2,
+  "dims_m": [
+   0.724,
+   0.47,
+   0.186
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/cement_bag.glb",
+  "name": "cement_bag",
+  "category": "11-tools-misc",
+  "size_kb": 1413,
+  "tris": 844,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.462,
+   0.18,
+   0.7
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/cleaner_tin_01.glb",
+  "name": "cleaner_tin_01",
+  "category": "11-tools-misc",
+  "size_kb": 1776,
+  "tris": 3560,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.088,
+   0.13,
+   0.088
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/clipboard.glb",
+  "name": "clipboard",
+  "category": "11-tools-misc",
+  "size_kb": 1744,
+  "tris": 6176,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.229,
+   0.042,
+   0.337
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/combination_wrench.glb",
+  "name": "combination_wrench",
+  "category": "11-tools-misc",
+  "size_kb": 1422,
+  "tris": 1986,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.057,
+   0.022,
+   0.337
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/compost_bag_02.glb",
+  "name": "compost_bag_02",
+  "category": "11-tools-misc",
+  "size_kb": 2298,
+  "tris": 12096,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.539,
+   0.434,
+   0.471
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/compost_bags.glb",
+  "name": "compost_bags",
+  "category": "11-tools-misc",
+  "size_kb": 2536,
+  "tris": 18708,
+  "images": 4,
+  "materials": 1,
+  "dims_m": [
+   0.684,
+   0.179,
+   0.887
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/cross_pein_hammer.glb",
+  "name": "cross_pein_hammer",
+  "category": "11-tools-misc",
+  "size_kb": 1472,
+  "tris": 2124,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.099,
+   0.3,
+   0.024
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/crowbar_01.glb",
+  "name": "crowbar_01",
+  "category": "11-tools-misc",
+  "size_kb": 1550,
+  "tris": 2300,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.04,
+   0.555,
+   0.128
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/drain_cleaner.glb",
+  "name": "drain_cleaner",
+  "category": "11-tools-misc",
+  "size_kb": 1608,
+  "tris": 4338,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.165,
+   0.179,
+   0.056
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/drill_press_01.glb",
+  "name": "drill_press_01",
+  "category": "11-tools-misc",
+  "size_kb": 3931,
+  "tris": 58526,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.259,
+   0.738,
+   0.588
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/flathead_screwdriver.glb",
+  "name": "flathead_screwdriver",
+  "category": "11-tools-misc",
+  "size_kb": 1838,
+  "tris": 2300,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.03,
+   0.261,
+   0.03
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/hand_plane_no4.glb",
+  "name": "hand_plane_no4",
+  "category": "11-tools-misc",
+  "size_kb": 2491,
+  "tris": 8220,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.331,
+   0.198,
+   0.084
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/korean_fire_extinguisher_01.glb",
+  "name": "korean_fire_extinguisher_01",
+  "category": "11-tools-misc",
+  "size_kb": 1578,
+  "tris": 9913,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   0.28,
+   0.659,
+   0.367
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/leather_cleaner_can.glb",
+  "name": "leather_cleaner_can",
+  "category": "11-tools-misc",
+  "size_kb": 927,
+  "tris": 2296,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.07,
+   0.17,
+   0.07
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/measuring_tape_01.glb",
+  "name": "measuring_tape_01",
+  "category": "11-tools-misc",
+  "size_kb": 435,
+  "tris": 2868,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.041,
+   0.073,
+   0.169
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/medical_box.glb",
+  "name": "medical_box",
+  "category": "11-tools-misc",
+  "size_kb": 1926,
+  "tris": 3718,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.345,
+   0.045,
+   0.007
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/medical_tape.glb",
+  "name": "medical_tape",
+  "category": "11-tools-misc",
+  "size_kb": 1560,
+  "tris": 1408,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.045,
+   0.025,
+   0.045
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/metal_toolbox.glb",
+  "name": "metal_toolbox",
+  "category": "11-tools-misc",
+  "size_kb": 2678,
+  "tris": 14228,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.4,
+   0.122,
+   0.219
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/multi_cleaner_5_litre.glb",
+  "name": "multi_cleaner_5_litre",
+  "category": "11-tools-misc",
+  "size_kb": 1333,
+  "tris": 4332,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.219,
+   0.3,
+   0.106
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/oil_tin.glb",
+  "name": "oil_tin",
+  "category": "11-tools-misc",
+  "size_kb": 2038,
+  "tris": 2834,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.115,
+   0.205,
+   0.154
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/old_drill_press.glb",
+  "name": "old_drill_press",
+  "category": "11-tools-misc",
+  "size_kb": 2296,
+  "tris": 21842,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.29,
+   0.822,
+   0.461
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/ornate_war_hammer.glb",
+  "name": "ornate_war_hammer",
+  "category": "11-tools-misc",
+  "size_kb": 2040,
+  "tris": 5192,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.144,
+   0.711,
+   0.035
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/pipe_wrench.glb",
+  "name": "pipe_wrench",
+  "category": "11-tools-misc",
+  "size_kb": 2944,
+  "tris": 10746,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.084,
+   0.405,
+   0.034
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/plastic_broom.glb",
+  "name": "plastic_broom",
+  "category": "11-tools-misc",
+  "size_kb": 1684,
+  "tris": 18736,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.4,
+   1.144,
+   0.553
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/pliers.glb",
+  "name": "pliers",
+  "category": "11-tools-misc",
+  "size_kb": 1967,
+  "tris": 4540,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.04,
+   0.18,
+   0.018
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/power_box_01.glb",
+  "name": "power_box_01",
+  "category": "11-tools-misc",
+  "size_kb": 2660,
+  "tris": 21272,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.332,
+   0.487,
+   0.02
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/ratchet_wrench.glb",
+  "name": "ratchet_wrench",
+  "category": "11-tools-misc",
+  "size_kb": 1483,
+  "tris": 8796,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.044,
+   0.246,
+   0.043
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/screwdriver.glb",
+  "name": "screwdriver",
+  "category": "11-tools-misc",
+  "size_kb": 1500,
+  "tris": 3412,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.027,
+   0.209,
+   0.027
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/screwdrivers_02.glb",
+  "name": "screwdrivers_02",
+  "category": "11-tools-misc",
+  "size_kb": 2031,
+  "tris": 3548,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.027,
+   0.027,
+   0.27
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/signal_flashlight.glb",
+  "name": "signal_flashlight",
+  "category": "11-tools-misc",
+  "size_kb": 2500,
+  "tris": 9730,
+  "images": 4,
+  "materials": 3,
+  "dims_m": [
+   0.035,
+   0.058,
+   0.002
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/sledgehammer_01.glb",
+  "name": "sledgehammer_01",
+  "category": "11-tools-misc",
+  "size_kb": 1741,
+  "tris": 2596,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.208,
+   1.006,
+   0.09
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/tongue_groove_pliers.glb",
+  "name": "tongue_groove_pliers",
+  "category": "11-tools-misc",
+  "size_kb": 1968,
+  "tris": 2694,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.039,
+   0.014,
+   0.231
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/trashbag.glb",
+  "name": "trashbag",
+  "category": "11-tools-misc",
+  "size_kb": 1659,
+  "tris": 4482,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.528,
+   0.575,
+   0.463
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/utility_box_01.glb",
+  "name": "utility_box_01",
+  "category": "11-tools-misc",
+  "size_kb": 1930,
+  "tris": 4404,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.52,
+   1.12,
+   0.432
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/utility_box_02.glb",
+  "name": "utility_box_02",
+  "category": "11-tools-misc",
+  "size_kb": 1981,
+  "tris": 6268,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.92,
+   1.12,
+   0.432
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/vintage_hand_drill.glb",
+  "name": "vintage_hand_drill",
+  "category": "11-tools-misc",
+  "size_kb": 3021,
+  "tris": 8338,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.035,
+   0.023,
+   0.035
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wine_barrel_01.glb",
+  "name": "wine_barrel_01",
+  "category": "11-tools-misc",
+  "size_kb": 900,
+  "tris": 10820,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.579,
+   0.015,
+   0.579
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wooden_barrels_01.glb",
+  "name": "wooden_barrels_01",
+  "category": "11-tools-misc",
+  "size_kb": 7303,
+  "tris": 33142,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   0.743,
+   0.917,
+   0.743
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wooden_broom.glb",
+  "name": "wooden_broom",
+  "category": "11-tools-misc",
+  "size_kb": 3341,
+  "tris": 14258,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.49,
+   0.072,
+   0.113
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wooden_bucket_01.glb",
+  "name": "wooden_bucket_01",
+  "category": "11-tools-misc",
+  "size_kb": 2275,
+  "tris": 5116,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.347,
+   0.349,
+   0.342
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wooden_bucket_02.glb",
+  "name": "wooden_bucket_02",
+  "category": "11-tools-misc",
+  "size_kb": 2452,
+  "tris": 7252,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.615,
+   0.35,
+   0.616
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wooden_cutting_board.glb",
+  "name": "wooden_cutting_board",
+  "category": "11-tools-misc",
+  "size_kb": 1919,
+  "tris": 3520,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.45,
+   0.041,
+   0.247
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/11-tools-misc/wooden_hammer_01.glb",
+  "name": "wooden_hammer_01",
+  "category": "11-tools-misc",
+  "size_kb": 1841,
+  "tris": 3617,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.112,
+   0.279,
+   0.023
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/CashRegister_01.glb",
+  "name": "CashRegister_01",
+  "category": "12-other",
+  "size_kb": 1013,
+  "tris": 9927,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.6,
+   0.621,
+   0.436
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/Ukulele_01.glb",
+  "name": "Ukulele_01",
+  "category": "12-other",
+  "size_kb": 787,
+  "tris": 8912,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.178,
+   0.527,
+   0.051
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/american_football.glb",
+  "name": "american_football",
+  "category": "12-other",
+  "size_kb": 2607,
+  "tris": 4480,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.453,
+   0.256,
+   0.256
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/antique_estoc.glb",
+  "name": "antique_estoc",
+  "category": "12-other",
+  "size_kb": 2468,
+  "tris": 8246,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.372,
+   0.149,
+   1.492
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/antique_katana_01.glb",
+  "name": "antique_katana_01",
+  "category": "12-other",
+  "size_kb": 631,
+  "tris": 6670,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.093,
+   1.003,
+   0.093
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/bananas.glb",
+  "name": "bananas",
+  "category": "12-other",
+  "size_kb": 2418,
+  "tris": 46868,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.134,
+   0.179,
+   0.223
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/baseball_01.glb",
+  "name": "baseball_01",
+  "category": "12-other",
+  "size_kb": 1053,
+  "tris": 10848,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.074,
+   0.075,
+   0.075
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/baseball_bat.glb",
+  "name": "baseball_bat",
+  "category": "12-other",
+  "size_kb": 1633,
+  "tris": 2672,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.064,
+   0.064,
+   0.913
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/binoculars.glb",
+  "name": "binoculars",
+  "category": "12-other",
+  "size_kb": 2207,
+  "tris": 19248,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.076,
+   0.06,
+   0.115
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/brass_blowtorch.glb",
+  "name": "brass_blowtorch",
+  "category": "12-other",
+  "size_kb": 2273,
+  "tris": 11750,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.129,
+   0.211,
+   0.259
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/calathea_orbifolia_01.glb",
+  "name": "calathea_orbifolia_01",
+  "category": "12-other",
+  "size_kb": 1829,
+  "tris": 16688,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.601,
+   0.424,
+   0.526
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/can_rusted.glb",
+  "name": "can_rusted",
+  "category": "12-other",
+  "size_kb": 2063,
+  "tris": 3520,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.125,
+   0.151,
+   0.125
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/cannon_01.glb",
+  "name": "cannon_01",
+  "category": "12-other",
+  "size_kb": 3954,
+  "tris": 41444,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.139,
+   0.138,
+   0.141
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/celandine_01.glb",
+  "name": "celandine_01",
+  "category": "12-other",
+  "size_kb": 1486,
+  "tris": 8966,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.276,
+   0.186,
+   0.228
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/chemistry_set.glb",
+  "name": "chemistry_set",
+  "category": "12-other",
+  "size_kb": 3639,
+  "tris": 41958,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.107,
+   0.312,
+   0.093
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/cigarette_case.glb",
+  "name": "cigarette_case",
+  "category": "12-other",
+  "size_kb": 2017,
+  "tris": 16912,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.082,
+   0.013,
+   0.1
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/cigarette_pack.glb",
+  "name": "cigarette_pack",
+  "category": "12-other",
+  "size_kb": 1328,
+  "tris": 11956,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.056,
+   0.103,
+   0.029
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/dandelion_01.glb",
+  "name": "dandelion_01",
+  "category": "12-other",
+  "size_kb": 3024,
+  "tris": 54764,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.22,
+   0.164,
+   0.258
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/dartboard.glb",
+  "name": "dartboard",
+  "category": "12-other",
+  "size_kb": 2959,
+  "tris": 6800,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.451,
+   0.451,
+   0.04
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/didelta_spinosa.glb",
+  "name": "didelta_spinosa",
+  "category": "12-other",
+  "size_kb": 14424,
+  "tris": 417187,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.123,
+   2.072,
+   1.86
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/dirty_football.glb",
+  "name": "dirty_football",
+  "category": "12-other",
+  "size_kb": 1947,
+  "tris": 19998,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.221,
+   0.22,
+   0.22
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/fishermans_hat.glb",
+  "name": "fishermans_hat",
+  "category": "12-other",
+  "size_kb": 2284,
+  "tris": 10304,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.324,
+   0.124,
+   0.35
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_apple_01.glb",
+  "name": "food_apple_01",
+  "category": "12-other",
+  "size_kb": 462,
+  "tris": 7012,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.098,
+   0.085,
+   0.096
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_avocado_01.glb",
+  "name": "food_avocado_01",
+  "category": "12-other",
+  "size_kb": 570,
+  "tris": 7743,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.095,
+   0.143,
+   0.095
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_ginger_01.glb",
+  "name": "food_ginger_01",
+  "category": "12-other",
+  "size_kb": 572,
+  "tris": 7205,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.24,
+   0.575,
+   0.147
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_kiwi_01.glb",
+  "name": "food_kiwi_01",
+  "category": "12-other",
+  "size_kb": 775,
+  "tris": 7748,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.07,
+   0.09,
+   0.069
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_lime_01.glb",
+  "name": "food_lime_01",
+  "category": "12-other",
+  "size_kb": 565,
+  "tris": 8100,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.06,
+   0.075,
+   0.061
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_lychee_01.glb",
+  "name": "food_lychee_01",
+  "category": "12-other",
+  "size_kb": 753,
+  "tris": 6783,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.041,
+   0.051,
+   0.042
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_pears_asian_01.glb",
+  "name": "food_pears_asian_01",
+  "category": "12-other",
+  "size_kb": 1680,
+  "tris": 12572,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.045,
+   0.086,
+   0.042
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/food_pomegranate_01.glb",
+  "name": "food_pomegranate_01",
+  "category": "12-other",
+  "size_kb": 596,
+  "tris": 8142,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.114,
+   0.115,
+   0.115
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/football.glb",
+  "name": "football",
+  "category": "12-other",
+  "size_kb": 2696,
+  "tris": 4296,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.215,
+   0.202,
+   0.222
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/hand_truck.glb",
+  "name": "hand_truck",
+  "category": "12-other",
+  "size_kb": 3104,
+  "tris": 13220,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.593,
+   1.403,
+   0.693
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/handsaw_wood.glb",
+  "name": "handsaw_wood",
+  "category": "12-other",
+  "size_kb": 2420,
+  "tris": 2548,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.041,
+   0.167,
+   0.633
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/hatchet.glb",
+  "name": "hatchet",
+  "category": "12-other",
+  "size_kb": 1921,
+  "tris": 5250,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.026,
+   0.289,
+   0.104
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/horse_head.glb",
+  "name": "horse_head",
+  "category": "12-other",
+  "size_kb": 1723,
+  "tris": 12068,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.215,
+   0.419,
+   0.334
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/industrial_caged_sconce.glb",
+  "name": "industrial_caged_sconce",
+  "category": "12-other",
+  "size_kb": 3045,
+  "tris": 26576,
+  "images": 4,
+  "materials": 1,
+  "dims_m": [
+   0.21,
+   0.382,
+   0.209
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/industrial_microscope.glb",
+  "name": "industrial_microscope",
+  "category": "12-other",
+  "size_kb": 2397,
+  "tris": 16598,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.15,
+   0.089,
+   0.134
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/industrial_pastic_container.glb",
+  "name": "industrial_pastic_container",
+  "category": "12-other",
+  "size_kb": 1529,
+  "tris": 7118,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.35,
+   0.415,
+   0.626
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/industrial_wall_sconce.glb",
+  "name": "industrial_wall_sconce",
+  "category": "12-other",
+  "size_kb": 2329,
+  "tris": 9826,
+  "images": 5,
+  "materials": 2,
+  "dims_m": [
+   0.15,
+   0.342,
+   0.252
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/jug_01.glb",
+  "name": "jug_01",
+  "category": "12-other",
+  "size_kb": 1198,
+  "tris": 5770,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.275,
+   0.211,
+   0.168
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/katana_stand_01.glb",
+  "name": "katana_stand_01",
+  "category": "12-other",
+  "size_kb": 543,
+  "tris": 3780,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.296,
+   0.182,
+   0.053
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/kite_shield.glb",
+  "name": "kite_shield",
+  "category": "12-other",
+  "size_kb": 3726,
+  "tris": 10306,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.532,
+   1.365,
+   0.129
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/ladder_sectioned_01.glb",
+  "name": "ladder_sectioned_01",
+  "category": "12-other",
+  "size_kb": 2509,
+  "tris": 29140,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.662,
+   2.135,
+   0.098
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/lambis_shell.glb",
+  "name": "lambis_shell",
+  "category": "12-other",
+  "size_kb": 2195,
+  "tris": 12498,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.139,
+   0.047,
+   0.075
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/large_castle_door.glb",
+  "name": "large_castle_door",
+  "category": "12-other",
+  "size_kb": 3192,
+  "tris": 12640,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.012,
+   2.965,
+   0.129
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/lateral_sea_marker.glb",
+  "name": "lateral_sea_marker",
+  "category": "12-other",
+  "size_kb": 2417,
+  "tris": 13014,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   3.005,
+   6.839,
+   3.005
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/leipoldtia_schultzei.glb",
+  "name": "leipoldtia_schultzei",
+  "category": "12-other",
+  "size_kb": 12793,
+  "tris": 385504,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.054,
+   0.676,
+   1.78
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/lemon.glb",
+  "name": "lemon",
+  "category": "12-other",
+  "size_kb": 1807,
+  "tris": 4012,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.069,
+   0.095,
+   0.068
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/life_jacket.glb",
+  "name": "life_jacket",
+  "category": "12-other",
+  "size_kb": 2270,
+  "tris": 8968,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.696,
+   0.992,
+   0.184
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/lifebuoy.glb",
+  "name": "lifebuoy",
+  "category": "12-other",
+  "size_kb": 2559,
+  "tris": 10728,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.783,
+   0.841,
+   0.155
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/lion_head.glb",
+  "name": "lion_head",
+  "category": "12-other",
+  "size_kb": 3124,
+  "tris": 47214,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.321,
+   0.436,
+   0.207
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/long_life_food.glb",
+  "name": "long_life_food",
+  "category": "12-other",
+  "size_kb": 1981,
+  "tris": 4712,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.1,
+   0.238,
+   0.072
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/lubricant_spray.glb",
+  "name": "lubricant_spray",
+  "category": "12-other",
+  "size_kb": 1713,
+  "tris": 5476,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.003,
+   0.113,
+   0.02
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/machete.glb",
+  "name": "machete",
+  "category": "12-other",
+  "size_kb": 2367,
+  "tris": 3032,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.044,
+   0.755,
+   0.061
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/magnifying_glass_01.glb",
+  "name": "magnifying_glass_01",
+  "category": "12-other",
+  "size_kb": 475,
+  "tris": 7240,
+  "images": 5,
+  "materials": 2,
+  "dims_m": [
+   0.132,
+   0.272,
+   0.027
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/marble_bust_01.glb",
+  "name": "marble_bust_01",
+  "category": "12-other",
+  "size_kb": 876,
+  "tris": 17456,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.272,
+   0.515,
+   0.3
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/metal_detector.glb",
+  "name": "metal_detector",
+  "category": "12-other",
+  "size_kb": 2002,
+  "tris": 15518,
+  "images": 4,
+  "materials": 1,
+  "dims_m": [
+   1.195,
+   0.238,
+   0.425
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/metal_jerrycan.glb",
+  "name": "metal_jerrycan",
+  "category": "12-other",
+  "size_kb": 2962,
+  "tris": 20022,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.35,
+   0.455,
+   0.172
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/metal_jerrycan_green.glb",
+  "name": "metal_jerrycan_green",
+  "category": "12-other",
+  "size_kb": 2589,
+  "tris": 9636,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.015,
+   0.072,
+   0.016
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/metal_jug.glb",
+  "name": "metal_jug",
+  "category": "12-other",
+  "size_kb": 1751,
+  "tris": 6040,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.197,
+   0.288,
+   0.195
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/metal_trash_can.glb",
+  "name": "metal_trash_can",
+  "category": "12-other",
+  "size_kb": 4872,
+  "tris": 13960,
+  "images": 6,
+  "materials": 3,
+  "dims_m": [
+   0.076,
+   0.079,
+   0.186
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modified_thermos.glb",
+  "name": "modified_thermos",
+  "category": "12-other",
+  "size_kb": 2274,
+  "tris": 11576,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.143,
+   0.306,
+   0.101
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_airduct_circular_01.glb",
+  "name": "modular_airduct_circular_01",
+  "category": "12-other",
+  "size_kb": 1935,
+  "tris": 14280,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.552,
+   0.42,
+   0.111
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_airduct_rectangular_01.glb",
+  "name": "modular_airduct_rectangular_01",
+  "category": "12-other",
+  "size_kb": 2687,
+  "tris": 45090,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.6,
+   0.45,
+   0.6
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_electric_cables.glb",
+  "name": "modular_electric_cables",
+  "category": "12-other",
+  "size_kb": 5844,
+  "tris": 42078,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.026,
+   0.207,
+   0.042
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_electricity_poles.glb",
+  "name": "modular_electricity_poles",
+  "category": "12-other",
+  "size_kb": 12072,
+  "tris": 200610,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.02,
+   0.023,
+   0.218
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_factory_facade.glb",
+  "name": "modular_factory_facade",
+  "category": "12-other",
+  "size_kb": 17665,
+  "tris": 175014,
+  "images": 16,
+  "materials": 6,
+  "dims_m": [
+   3.0,
+   0.16,
+   0.173
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_fire_escape.glb",
+  "name": "modular_fire_escape",
+  "category": "12-other",
+  "size_kb": 4688,
+  "tris": 11322,
+  "images": 6,
+  "materials": 3,
+  "dims_m": [
+   4.711,
+   0.984,
+   1.387
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_fort_01.glb",
+  "name": "modular_fort_01",
+  "category": "12-other",
+  "size_kb": 10360,
+  "tris": 28218,
+  "images": 9,
+  "materials": 3,
+  "dims_m": [
+   7.071,
+   7.085,
+   5.72
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_industrial_pipes_01.glb",
+  "name": "modular_industrial_pipes_01",
+  "category": "12-other",
+  "size_kb": 4705,
+  "tris": 12340,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.207,
+   0.859,
+   0.206
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_metal_gutter.glb",
+  "name": "modular_metal_gutter",
+  "category": "12-other",
+  "size_kb": 2153,
+  "tris": 16490,
+  "images": 3,
+  "materials": 2,
+  "dims_m": [
+   0.153,
+   0.404,
+   0.261
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_pipes.glb",
+  "name": "modular_pipes",
+  "category": "12-other",
+  "size_kb": 5635,
+  "tris": 94856,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.1,
+   0.05,
+   0.1
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_pipes_plastic_01.glb",
+  "name": "modular_pipes_plastic_01",
+  "category": "12-other",
+  "size_kb": 3037,
+  "tris": 47788,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.816,
+   0.019,
+   0.02
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_urban_apartments_facade.glb",
+  "name": "modular_urban_apartments_facade",
+  "category": "12-other",
+  "size_kb": 15990,
+  "tris": 270045,
+  "images": 12,
+  "materials": 5,
+  "dims_m": [
+   1.355,
+   2.81,
+   1.355
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/modular_wooden_pier.glb",
+  "name": "modular_wooden_pier",
+  "category": "12-other",
+  "size_kb": 7650,
+  "tris": 84780,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   2.212,
+   3.849,
+   3.081
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/moss_01.glb",
+  "name": "moss_01",
+  "category": "12-other",
+  "size_kb": 892,
+  "tris": 204,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.018,
+   0.028,
+   0.014
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/mountainside.glb",
+  "name": "mountainside",
+  "category": "12-other",
+  "size_kb": 7211,
+  "tris": 153472,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   10.209,
+   10.522,
+   5.247
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/mousetrap.glb",
+  "name": "mousetrap",
+  "category": "12-other",
+  "size_kb": 2181,
+  "tris": 5136,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.055,
+   0.018,
+   0.1
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/namaqualand_stones_01.glb",
+  "name": "namaqualand_stones_01",
+  "category": "12-other",
+  "size_kb": 4054,
+  "tris": 70124,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.076,
+   0.038,
+   0.063
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/ocean_buoy.glb",
+  "name": "ocean_buoy",
+  "category": "12-other",
+  "size_kb": 2955,
+  "tris": 12240,
+  "images": 4,
+  "materials": 1,
+  "dims_m": [
+   1.067,
+   2.656,
+   0.952
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/office_notepads.glb",
+  "name": "office_notepads",
+  "category": "12-other",
+  "size_kb": 1295,
+  "tris": 666,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.223,
+   0,
+   0.307
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/old_gas_mask.glb",
+  "name": "old_gas_mask",
+  "category": "12-other",
+  "size_kb": 2208,
+  "tris": 18900,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.211,
+   1.126,
+   0.309
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/old_military_compressor.glb",
+  "name": "old_military_compressor",
+  "category": "12-other",
+  "size_kb": 5054,
+  "tris": 79042,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.598,
+   1.179,
+   1.676
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/old_tyre.glb",
+  "name": "old_tyre",
+  "category": "12-other",
+  "size_kb": 2184,
+  "tris": 2880,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.6,
+   0.6,
+   0.165
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/ornate_medieval_dagger.glb",
+  "name": "ornate_medieval_dagger",
+  "category": "12-other",
+  "size_kb": 2085,
+  "tris": 6290,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.08,
+   0.346,
+   0.025
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/ornate_medieval_mace.glb",
+  "name": "ornate_medieval_mace",
+  "category": "12-other",
+  "size_kb": 2696,
+  "tris": 14762,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.095,
+   0.63,
+   0.102
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/othonna_cerarioides.glb",
+  "name": "othonna_cerarioides",
+  "category": "12-other",
+  "size_kb": 8388,
+  "tris": 118149,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.977,
+   1.925,
+   0.9
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/overhead_crane.glb",
+  "name": "overhead_crane",
+  "category": "12-other",
+  "size_kb": 7156,
+  "tris": 89964,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   12.492,
+   0.726,
+   4.0
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/pachira_aquatica_01.glb",
+  "name": "pachira_aquatica_01",
+  "category": "12-other",
+  "size_kb": 5013,
+  "tris": 76914,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.233,
+   0.851,
+   0.241
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/painted_wooden_shelves.glb",
+  "name": "painted_wooden_shelves",
+  "category": "12-other",
+  "size_kb": 2060,
+  "tris": 524,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.511,
+   1.125,
+   0.367
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/pastic_torch_6v.glb",
+  "name": "pastic_torch_6v",
+  "category": "12-other",
+  "size_kb": 1932,
+  "tris": 4352,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.137,
+   0.142,
+   0.224
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/picke_dirty_01.glb",
+  "name": "picke_dirty_01",
+  "category": "12-other",
+  "size_kb": 2183,
+  "tris": 6196,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.55,
+   1.116,
+   0.069
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/pine_roots.glb",
+  "name": "pine_roots",
+  "category": "12-other",
+  "size_kb": 9474,
+  "tris": 162693,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   1.739,
+   0.144,
+   0.826
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/plastic_container.glb",
+  "name": "plastic_container",
+  "category": "12-other",
+  "size_kb": 1308,
+  "tris": 4070,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.895,
+   0.43,
+   0.626
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/plastic_jerrycan.glb",
+  "name": "plastic_jerrycan",
+  "category": "12-other",
+  "size_kb": 2447,
+  "tris": 7348,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.268,
+   0.318,
+   0.341
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/plastic_thermos.glb",
+  "name": "plastic_thermos",
+  "category": "12-other",
+  "size_kb": 1470,
+  "tris": 5514,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.141,
+   0.32,
+   0.109
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/plunger.glb",
+  "name": "plunger",
+  "category": "12-other",
+  "size_kb": 1755,
+  "tris": 3278,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.172,
+   0.421,
+   0.172
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/retro_multimeter.glb",
+  "name": "retro_multimeter",
+  "category": "12-other",
+  "size_kb": 1745,
+  "tris": 8948,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.13,
+   0.22,
+   0.076
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rollershutter_door.glb",
+  "name": "rollershutter_door",
+  "category": "12-other",
+  "size_kb": 2286,
+  "tris": 1104,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   1.08,
+   2.4,
+   0.3
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rollershutter_window_01.glb",
+  "name": "rollershutter_window_01",
+  "category": "12-other",
+  "size_kb": 2182,
+  "tris": 1104,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   2.1,
+   1.851,
+   0.3
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rollershutter_window_02.glb",
+  "name": "rollershutter_window_02",
+  "category": "12-other",
+  "size_kb": 2073,
+  "tris": 1120,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   1.6,
+   1.561,
+   0.168
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rollershutter_window_03.glb",
+  "name": "rollershutter_window_03",
+  "category": "12-other",
+  "size_kb": 2228,
+  "tris": 1120,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.976,
+   1.546,
+   0.153
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/root_cluster_01.glb",
+  "name": "root_cluster_01",
+  "category": "12-other",
+  "size_kb": 9231,
+  "tris": 225261,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   4.123,
+   1.509,
+   2.683
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/root_cluster_02.glb",
+  "name": "root_cluster_02",
+  "category": "12-other",
+  "size_kb": 13625,
+  "tris": 339641,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.313,
+   0.115,
+   0.977
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/round_spectacles.glb",
+  "name": "round_spectacles",
+  "category": "12-other",
+  "size_kb": 2513,
+  "tris": 11810,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.158,
+   0.046,
+   0.149
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rubber_boots.glb",
+  "name": "rubber_boots",
+  "category": "12-other",
+  "size_kb": 1963,
+  "tris": 56128,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.091,
+   0.373,
+   0.266
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rubber_duck_toy.glb",
+  "name": "rubber_duck_toy",
+  "category": "12-other",
+  "size_kb": 717,
+  "tris": 4288,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.214,
+   0.286,
+   0.3
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/russian_food_cans_01.glb",
+  "name": "russian_food_cans_01",
+  "category": "12-other",
+  "size_kb": 1465,
+  "tris": 1348,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.033,
+   0.085,
+   0.027
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rusted_hacksaw.glb",
+  "name": "rusted_hacksaw",
+  "category": "12-other",
+  "size_kb": 2105,
+  "tris": 6546,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.496,
+   0.109,
+   0.033
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rusted_spade_01.glb",
+  "name": "rusted_spade_01",
+  "category": "12-other",
+  "size_kb": 2365,
+  "tris": 11436,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.168,
+   1.101,
+   0.046
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rusted_wheel_rim_01.glb",
+  "name": "rusted_wheel_rim_01",
+  "category": "12-other",
+  "size_kb": 2535,
+  "tris": 16440,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.405,
+   0.405,
+   0.15
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/rusted_wheel_rim_02.glb",
+  "name": "rusted_wheel_rim_02",
+  "category": "12-other",
+  "size_kb": 2533,
+  "tris": 15256,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.338,
+   0.338,
+   0.119
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/scandinavian_masonry_heater.glb",
+  "name": "scandinavian_masonry_heater",
+  "category": "12-other",
+  "size_kb": 2402,
+  "tris": 9350,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.168,
+   2.36,
+   1.335
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/seadogs_compass.glb",
+  "name": "seadogs_compass",
+  "category": "12-other",
+  "size_kb": 2630,
+  "tris": 11645,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.081,
+   0.021,
+   0.104
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/searsia_burchellii.glb",
+  "name": "searsia_burchellii",
+  "category": "12-other",
+  "size_kb": 34616,
+  "tris": 616336,
+  "images": 5,
+  "materials": 3,
+  "dims_m": [
+   3.837,
+   3.06,
+   5.049
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/searsia_lucida.glb",
+  "name": "searsia_lucida",
+  "category": "12-other",
+  "size_kb": 20314,
+  "tris": 377192,
+  "images": 5,
+  "materials": 3,
+  "dims_m": [
+   1.764,
+   2.339,
+   1.966
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/seeding_tray_01.glb",
+  "name": "seeding_tray_01",
+  "category": "12-other",
+  "size_kb": 1982,
+  "tris": 8334,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.22,
+   0.061,
+   0.22
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/shrub_01.glb",
+  "name": "shrub_01",
+  "category": "12-other",
+  "size_kb": 6715,
+  "tris": 156012,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   2.587,
+   0.396,
+   0.219
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/shrub_02.glb",
+  "name": "shrub_02",
+  "category": "12-other",
+  "size_kb": 1917,
+  "tris": 27254,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.56,
+   1.712,
+   1.29
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/shrub_03.glb",
+  "name": "shrub_03",
+  "category": "12-other",
+  "size_kb": 1588,
+  "tris": 8287,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.201,
+   0.403,
+   0.151
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/shrub_04.glb",
+  "name": "shrub_04",
+  "category": "12-other",
+  "size_kb": 1862,
+  "tris": 27327,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.584,
+   0.219,
+   0.146
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/shrub_sorrel_01.glb",
+  "name": "shrub_sorrel_01",
+  "category": "12-other",
+  "size_kb": 1152,
+  "tris": 3319,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.015,
+   0.058,
+   0.013
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/single_root.glb",
+  "name": "single_root",
+  "category": "12-other",
+  "size_kb": 3754,
+  "tris": 61027,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.555,
+   0.178,
+   1.836
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/small_lpg_tank.glb",
+  "name": "small_lpg_tank",
+  "category": "12-other",
+  "size_kb": 2714,
+  "tris": 15042,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.41,
+   0.642,
+   0.409
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/small_oil_can_01.glb",
+  "name": "small_oil_can_01",
+  "category": "12-other",
+  "size_kb": 912,
+  "tris": 16746,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.266,
+   0.237,
+   0.104
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/small_plastic_torch.glb",
+  "name": "small_plastic_torch",
+  "category": "12-other",
+  "size_kb": 2792,
+  "tris": 13252,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.1,
+   0.055,
+   0.227
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/spinning_wheel_01.glb",
+  "name": "spinning_wheel_01",
+  "category": "12-other",
+  "size_kb": 2075,
+  "tris": 52023,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.489,
+   0.966,
+   1.025
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/standing_chalkboard_01.glb",
+  "name": "standing_chalkboard_01",
+  "category": "12-other",
+  "size_kb": 2554,
+  "tris": 2372,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.92,
+   1.509,
+   0.759
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/stationery_supplies.glb",
+  "name": "stationery_supplies",
+  "category": "12-other",
+  "size_kb": 1934,
+  "tris": 4412,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.141,
+   0.008,
+   0.008
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/steel_frame_shelves_01.glb",
+  "name": "steel_frame_shelves_01",
+  "category": "12-other",
+  "size_kb": 1559,
+  "tris": 4348,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   10.974,
+   21.405,
+   5.021
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/steel_frame_shelves_02.glb",
+  "name": "steel_frame_shelves_02",
+  "category": "12-other",
+  "size_kb": 527,
+  "tris": 4348,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.593,
+   2.142,
+   0.502
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/steel_frame_shelves_03.glb",
+  "name": "steel_frame_shelves_03",
+  "category": "12-other",
+  "size_kb": 3476,
+  "tris": 8396,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   2.351,
+   2.312,
+   0.718
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/stick_grenade.glb",
+  "name": "stick_grenade",
+  "category": "12-other",
+  "size_kb": 1855,
+  "tris": 4612,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.081,
+   0.379,
+   0.081
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/stone_01.glb",
+  "name": "stone_01",
+  "category": "12-other",
+  "size_kb": 3636,
+  "tris": 53520,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.147,
+   0.072,
+   0.089
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/stone_fire_pit.glb",
+  "name": "stone_fire_pit",
+  "category": "12-other",
+  "size_kb": 2476,
+  "tris": 3887,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   1.448,
+   0.388,
+   1.433
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/sungka_board.glb",
+  "name": "sungka_board",
+  "category": "12-other",
+  "size_kb": 1300,
+  "tris": 7304,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.14,
+   0.035,
+   0.601
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/sungka_board_02.glb",
+  "name": "sungka_board_02",
+  "category": "12-other",
+  "size_kb": 2946,
+  "tris": 42558,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.932,
+   0.026,
+   0.176
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/tea_set_01.glb",
+  "name": "tea_set_01",
+  "category": "12-other",
+  "size_kb": 2223,
+  "tris": 40296,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.188,
+   0.018,
+   0.19
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/tire_pump.glb",
+  "name": "tire_pump",
+  "category": "12-other",
+  "size_kb": 1626,
+  "tris": 6572,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.255,
+   0.58,
+   0.101
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/trowel_01.glb",
+  "name": "trowel_01",
+  "category": "12-other",
+  "size_kb": 1926,
+  "tris": 5242,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.099,
+   0.103,
+   0.347
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/vintage_binocular.glb",
+  "name": "vintage_binocular",
+  "category": "12-other",
+  "size_kb": 2680,
+  "tris": 19362,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.065,
+   0.054,
+   0.06
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/vintage_crutches_01.glb",
+  "name": "vintage_crutches_01",
+  "category": "12-other",
+  "size_kb": 770,
+  "tris": 10628,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.084,
+   1.6,
+   0.24
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/vintage_microscope.glb",
+  "name": "vintage_microscope",
+  "category": "12-other",
+  "size_kb": 2801,
+  "tris": 20631,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.061,
+   0.102,
+   0.045
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/vintage_spacecraft_instrument.glb",
+  "name": "vintage_spacecraft_instrument",
+  "category": "12-other",
+  "size_kb": 4190,
+  "tris": 13279,
+  "images": 4,
+  "materials": 2,
+  "dims_m": [
+   0.41,
+   0.269,
+   0.204
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/vintage_stapler.glb",
+  "name": "vintage_stapler",
+  "category": "12-other",
+  "size_kb": 2265,
+  "tris": 4370,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.157,
+   0.042,
+   0.027
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/vintage_suitcase.glb",
+  "name": "vintage_suitcase",
+  "category": "12-other",
+  "size_kb": 4188,
+  "tris": 16474,
+  "images": 6,
+  "materials": 2,
+  "dims_m": [
+   0.437,
+   0.352,
+   0.086
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/water_manhole_cover.glb",
+  "name": "water_manhole_cover",
+  "category": "12-other",
+  "size_kb": 2277,
+  "tris": 6301,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.691,
+   0.068,
+   0.691
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/watering_can_metal_01.glb",
+  "name": "watering_can_metal_01",
+  "category": "12-other",
+  "size_kb": 2549,
+  "tris": 11837,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.191,
+   0.197,
+   0.452
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wicker_basket_01.glb",
+  "name": "wicker_basket_01",
+  "category": "12-other",
+  "size_kb": 2665,
+  "tris": 22276,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.383,
+   0.117,
+   0.295
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wicker_basket_02.glb",
+  "name": "wicker_basket_02",
+  "category": "12-other",
+  "size_kb": 2991,
+  "tris": 17850,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.212,
+   0.2,
+   0.216
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_axe.glb",
+  "name": "wooden_axe",
+  "category": "12-other",
+  "size_kb": 1982,
+  "tris": 3348,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.047,
+   0.63,
+   0.214
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_axe_02.glb",
+  "name": "wooden_axe_02",
+  "category": "12-other",
+  "size_kb": 2111,
+  "tris": 2218,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.051,
+   0.704,
+   0.226
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_axe_03.glb",
+  "name": "wooden_axe_03",
+  "category": "12-other",
+  "size_kb": 2214,
+  "tris": 3886,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.05,
+   0.632,
+   0.158
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_display_shelves_01.glb",
+  "name": "wooden_display_shelves_01",
+  "category": "12-other",
+  "size_kb": 457,
+  "tris": 3174,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.372,
+   1.556,
+   1.078
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_handle_saber.glb",
+  "name": "wooden_handle_saber",
+  "category": "12-other",
+  "size_kb": 1776,
+  "tris": 4031,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.026,
+   0.935,
+   0.123
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_ladder.glb",
+  "name": "wooden_ladder",
+  "category": "12-other",
+  "size_kb": 2531,
+  "tris": 8492,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.485,
+   1.215,
+   0.497
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_ladder_02.glb",
+  "name": "wooden_ladder_02",
+  "category": "12-other",
+  "size_kb": 2281,
+  "tris": 6126,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.99,
+   1.722,
+   0.618
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/wooden_spoon.glb",
+  "name": "wooden_spoon",
+  "category": "12-other",
+  "size_kb": 1927,
+  "tris": 6576,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.087,
+   0.025,
+   0.278
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/worn_metal_rack.glb",
+  "name": "worn_metal_rack",
+  "category": "12-other",
+  "size_kb": 1961,
+  "tris": 6372,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.915,
+   1.9,
+   0.6
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ },
+ {
+  "file": "models/12-other/yellow_onion.glb",
+  "name": "yellow_onion",
+  "category": "12-other",
+  "size_kb": 1762,
+  "tris": 5444,
+  "images": 3,
+  "materials": 1,
+  "dims_m": [
+   0.072,
+   0.086,
+   0.069
+  ],
+  "source": "Poly Haven",
+  "license": "CC0 1.0"
+ }
+]
